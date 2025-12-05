@@ -17,7 +17,7 @@
 
 ## Executive Summary
 
-MN Global Investment Holdings, LLC operates as a protocol-driven organization with a singular strategic focus: the systematic acquisition and secure custody of Bitcoin through disciplined, rules-based methodologies. The company's entire operational infrastructure—including revenue generation systems, technological frameworks, and administrative processes—has been architected to support and optimize long-term Bitcoin accumulation.
+MN Global Investment Holdings, LLC operates as a protocol-driven organization with a singular strategic focus: the systematic acquisition and secure custody of Bitcoin through disciplined, rules-based methodologies. The company's entire operational infrastructure including revenue generation systems, technological frameworks, and administrative processes has been architected to support and optimize long-term Bitcoin accumulation.
 
 This document establishes the authoritative reference framework for the organization's operational protocols, financial systems architecture, technology infrastructure specifications, and governance processes. It serves to ensure transparency, facilitate independent auditability, and support scalable growth while maintaining organizational discipline and strategic focus.
 
@@ -27,11 +27,11 @@ This document establishes the authoritative reference framework for the organiza
 
 ### Mission Statement
 
-To systematically acquire and securely maintain Bitcoin holdings through the deployment of automated, protocol-driven operational systems designed to maximize long-term asset accumulation while minimizing discretionary decision-making and operational friction.
+To systematically acquire and securely maintain Bitcoin holdings through the deployment of automated, protocol driven operational systems designed to maximize long-term asset accumulation while minimizing discretionary decision making and operational friction.
 
 ### Vision Statement
 
-To function as a self-scaling, strategically aligned organizational entity wherein every operational decision, technological system, and business workflow directly reinforces and accelerates continuous Bitcoin accumulation. The organization aims to achieve full operational autonomy through protocol adherence, creating a resilient framework capable of sustained execution across extended time horizons.
+To function as a self scaling, strategically aligned organizational entity wherein every operational decision, technological system, and business workflow directly reinforces and accelerates continuous Bitcoin accumulation. The organization aims to achieve full operational autonomy through protocol adherence, creating a resilient framework capable of sustained execution across extended time horizons.
 
 ---
 
@@ -44,13 +44,13 @@ Every organizational action, capital allocation decision, and operational proces
 All operational cash flow, realized profits, and liquid assets are converted to Bitcoin according to predetermined acquisition protocols. The company maintains a pure Bitcoin balance sheet, with all retained earnings held exclusively in Bitcoin, ensuring complete alignment between operational success and asset accumulation objectives.
 
 ### 3. Protocol-Based Operational Framework
-Decision-making authority is embedded within predefined protocols and automated systems, reducing reliance on discretionary human judgment. This approach ensures consistency, repeatability, and scalability while minimizing operational risk associated with individual decision-making variability.
+Decision making authority is embedded within predefined protocols and automated systems, reducing reliance on discretionary human judgment. This approach ensures consistency, repeatability, and scalability while minimizing operational risk associated with individual decision making variability.
 
 ### 4. Self-Scaling System Architecture
 Revenue streams, technological infrastructure, and operational processes are designed with inherent scalability characteristics that reinforce and accelerate Bitcoin accumulation as the organization grows. System improvements compound over time, creating positive feedback loops that enhance acquisition efficiency.
 
 ### 5. Security & Operational Resilience
-Bitcoin reserves are protected through industry-leading security protocols including multi-signature cold storage solutions, geographically distributed custody arrangements, and continuous security monitoring systems. All protocols prioritize asset preservation and organizational continuity across extended time horizons.
+Bitcoin reserves are protected through industry leading security protocols including multi-signature cold storage solutions, geographically distributed custody arrangements, and continuous security monitoring systems. All protocols prioritize asset preservation and organizational continuity across extended time horizons.
 
 ### 6. Operational Transparency & Auditability
 All systems, processes, and protocols are documented comprehensively to enable internal review, external audit, and organizational accountability. Documentation standards ensure that operational knowledge is preserved, transferable, and accessible to authorized stakeholders.
@@ -106,7 +106,7 @@ All operational activities are conducted in accordance with:
 
 ## Documentation Repository Notice
 
-This document represents the public-facing strategic framework for MN Global Investment Holdings, LLC. Additional technical specifications, security protocols, operational procedures, and proprietary systems documentation are maintained in separate secure repositories with appropriate access controls.
+This document represents the public facing strategic framework for MN Global Investment Holdings, LLC. Additional technical specifications, security protocols, operational procedures, and proprietary systems documentation are maintained in separate secure repositories with appropriate access controls.
 
 For inquiries regarding partnerships, advisory roles, or corporate collaboration opportunities, please contact the organization through the official channels listed above.
 
