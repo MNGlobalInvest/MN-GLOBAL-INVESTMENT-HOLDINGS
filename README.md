@@ -1,48 +1,117 @@
 # MN GLOBAL INVESTMENT HOLDINGS, LLC
-**Autonomous Bitcoin Accumulation Protocol**
 
-Overview
+**Protocol-Driven Bitcoin Accumulation Strategy**
 
-MN Global Investment Holdings, LLC is a protocol-driven organization dedicated to acquiring and securely holding Bitcoin. All operations, revenue streams, and technology systems exist for one purpose: to maximize Bitcoin accumulation through automated, rules-based processes.
+---
 
-This repository serves as the authoritative reference for the company’s operational framework, financial systems, technology infrastructure, and protocol-driven processes—supporting transparency, auditability, and long-term scalability.
+## Company Contact Information
 
-Mission & Vision
-Mission
+**Office:** 218-322-9415  
+**Email:** billing.mnglobal@gmail.com  
+**Registered Office:** PMB 3046, 1626 London Rd, Duluth, MN 55812  
+**State of Formation:** Minnesota  
+**Date of Establishment:** 2013
 
-Acquire and securely hold Bitcoin using automated, protocol-driven systems that maximize long-term Bitcoin accumulation.
+---
 
-Vision
+## Executive Summary
 
-Operate as a self-scaling, fully aligned organization where every decision, system, and workflow reinforces continuous Bitcoin accumulation.
+MN Global Investment Holdings, LLC operates as a protocol-driven organization with a singular institutional focus: the strategic acquisition and secure custody of Bitcoin through systematic, rules-based methodologies. The company's entire operational infrastructure—including revenue generation systems, technological frameworks, and administrative processes—has been architected to support and optimize long-term Bitcoin accumulation.
 
-Core Principles
+This document establishes the authoritative reference framework for the organization's operational protocols, financial systems architecture, technology infrastructure specifications, and governance processes. It serves to ensure transparency, facilitate independent auditability, and support scalable growth while maintaining institutional discipline and strategic focus.
 
-Single-Minded Purpose – Every action is tied to increasing long-term Bitcoin holdings.
+---
 
-100% Bitcoin Balance Sheet – All cash flow, profit, and assets are converted to Bitcoin.
+## Mission & Vision
 
-Protocol-Based Operations – Autonomous, repeatable systems minimize human decision-making.
+### Mission Statement
 
-Self-Scaling Architecture – Systems and revenue flows reinforce continued Bitcoin acquisition.
+To systematically acquire and securely maintain Bitcoin holdings through the deployment of automated, protocol-driven operational systems designed to maximize long-term asset accumulation while minimizing discretionary decision-making and operational friction.
 
-Security & Resilience – Multi-signature cold storage and continuous monitoring protect all Bitcoin reserves.
+### Vision Statement
 
-Company Information
+To function as a self-scaling, strategically aligned institutional entity wherein every operational decision, technological system, and business workflow directly reinforces and accelerates continuous Bitcoin accumulation. The organization aims to achieve full operational autonomy through protocol adherence, creating a resilient framework capable of sustained execution across extended time horizons.
 
-(Administrative identifiers have been moved to a separate private repository.)
+---
 
-MN Global Investment Holdings, LLC
-Registered Office: PMB 3046, 1626 London Rd, Duluth, MN 55812
-State of Formation: Minnesota
-Date of Establishment: 2013
+## Core Organizational Principles
 
-Project Team & Capacity
+### 1. Single-Minded Strategic Purpose
+Every organizational action, capital allocation decision, and operational process is evaluated solely on its contribution to increasing long-term Bitcoin holdings. Activities that do not directly or indirectly support this objective are systematically eliminated or restructured.
 
-Founder
+### 2. 100% Bitcoin Treasury Policy
+All operational cash flow, realized profits, and liquid assets are converted to Bitcoin according to predetermined acquisition protocols. The company maintains a pure Bitcoin balance sheet, with all retained earnings held exclusively in Bitcoin, ensuring complete alignment between operational success and asset accumulation objectives.
 
-Project Director
+### 3. Protocol-Based Operational Framework
+Decision-making authority is embedded within predefined protocols and automated systems, reducing reliance on discretionary human judgment. This approach ensures consistency, repeatability, and scalability while minimizing operational risk associated with individual decision-making variability.
 
-Lead Systems Programmer
+### 4. Self-Scaling System Architecture
+Revenue streams, technological infrastructure, and operational processes are designed with inherent scalability characteristics that reinforce and accelerate Bitcoin accumulation as the organization grows. System improvements compound over time, creating positive feedback loops that enhance acquisition efficiency.
 
-(Additional advisory roles may be added in future revisions.)
+### 5. Security & Institutional Resilience
+Bitcoin reserves are protected through industry-leading security protocols including multi-signature cold storage solutions, geographically distributed custody arrangements, and continuous security monitoring systems. All protocols prioritize asset preservation and institutional continuity across extended time horizons.
+
+### 6. Operational Transparency & Auditability
+All systems, processes, and protocols are documented comprehensively to enable internal review, external audit, and institutional accountability. Documentation standards ensure that operational knowledge is preserved, transferable, and accessible to authorized stakeholders.
+
+---
+
+## Organizational Structure
+
+### Leadership & Core Team
+
+**Founder & Chief Executive**  
+Responsible for strategic vision, protocol development, and institutional governance.
+
+**Project Director**  
+Oversees operational implementation, system coordination, and strategic execution of accumulation protocols.
+
+**Lead Systems Programmer**  
+Architects and maintains all technological infrastructure, automation systems, and security protocols supporting Bitcoin accumulation operations.
+
+**Advisory Council**  
+*(To be expanded as organizational scale and complexity warrant additional specialized expertise in areas such as legal compliance, cybersecurity, institutional custody, and financial engineering.)*
+
+---
+
+## Strategic Implementation Framework
+
+### Phase I: Foundation & Protocol Establishment
+Establishment of core operational protocols, initial revenue stream development, security infrastructure deployment, and baseline automation systems.
+
+### Phase II: Revenue Optimization & System Scaling
+Expansion of revenue-generating operations, refinement of acquisition protocols, enhancement of automation capabilities, and optimization of operational efficiency metrics.
+
+### Phase III: Institutional Maturity & Full Autonomy
+Achievement of self-sustaining operational status with minimal human intervention requirements, maximized automation across all systems, and establishment of long-term institutional resilience mechanisms.
+
+---
+
+## Governance & Compliance
+
+MN Global Investment Holdings, LLC operates in full compliance with applicable federal and state regulations governing limited liability companies, financial operations, and digital asset custody. The organization maintains appropriate registrations, licenses, and insurance coverage as required by regulatory authorities.
+
+All operational activities are conducted in accordance with:
+- Minnesota Limited Liability Company Act
+- Federal tax and reporting requirements
+- Anti-money laundering (AML) protocols
+- Know Your Customer (KYC) standards
+- Digital asset custody best practices
+
+---
+
+## Documentation Repository Notice
+
+This document represents the public-facing strategic framework for MN Global Investment Holdings, LLC. Additional technical specifications, security protocols, operational procedures, and proprietary systems documentation are maintained in separate secure repositories with appropriate access controls.
+
+For inquiries regarding partnerships, advisory roles, or institutional collaboration opportunities, please contact the organization through the official channels listed above.
+
+---
+
+**Document Version:** 1.0  
+**Last Updated:** December 2025  
+**Classification:** Public Strategic Framework
+
+---
+
+*MN Global Investment Holdings, LLC is committed to building institutional infrastructure for the long-term accumulation and secure custody of Bitcoin through disciplined, protocol-driven operations.*
