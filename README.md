@@ -6,7 +6,7 @@
 
 ## Overview
 
-MN Global Investment Holdings, LLC operates as a **protocol-driven organization** with a singular focus: the systematic acquisition and secure custody of Bitcoin. This repository represents the complete operational and governance framework of the company—where documentation, protocols, and organizational structure exist as code and policy.
+MN Global Investment Holdings, LLC operates as a **protocol-driven organization** with a singular focus: the systematic acquisition and secure custody of Bitcoin. This repository represents the complete operational and governance framework of the company where documentation, protocols, and organizational structure exist as code and policy.
 
 **The repository is the business. The business is the repository.**
 
