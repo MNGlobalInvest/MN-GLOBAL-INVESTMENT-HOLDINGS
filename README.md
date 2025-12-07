@@ -41,3 +41,124 @@ All critical systems, processes, and decisions are documented for oversight and 
 ---
 
 ### ₿ Repository Structure
+
+mnglobal/
+├── README.md # This file
+├── GOVERNANCE.md # Governance structure & decision-making protocols
+├── STRATEGY.md # Strategic implementation roadmap
+├── COMPLIANCE.md # Regulatory compliance framework
+├── SECURITY.md # Security policies & custody protocols
+├── CODE_OF_CONDUCT.md # Organizational standards & ethics
+├── CONTRIBUTING.md # How to participate in organizational development
+├── LICENSE.md # Licensing & intellectual property
+│
+├── docs/
+│ ├── operations/ # Operational procedures & runbooks
+│ ├── protocols/ # Bitcoin acquisition & custody protocols
+│ ├── architecture/ # System architecture & design
+│ └── legal/ # Legal documentation & compliance
+│
+├── systems/
+│ ├── automation/ # Automated operational systems
+│ ├── monitoring/ # Performance & security monitoring
+│ └── reporting/ # Analytics & reporting infrastructure
+│
+└── policies/
+├── financial/ # Financial policies & procedures
+├── security/ # Security policies & standards
+└── governance/ # Governance policies & frameworks
+
+
+
+---
+
+### Leadership Structure
+
+**Founder & Chief Executive Officer**  
+Terry Williams  
+Strategic vision, protocol design, executive governance, and high-level oversight.
+
+**Project Director**  
+Terry Williams  
+Operational execution, cross-functional implementation, and protocol adherence.
+
+**Lead Systems Programmer**  
+Terry Williams  
+Architecture design, automation systems, cybersecurity strategy, and infrastructure development.
+
+**Advisory Council (Expanding)**  
+External specialists in legal compliance, digital asset custody, cybersecurity, taxation, and strategic finance integrated as needed.
+
+---
+
+### Strategic Implementation
+
+**Phase I: Foundation & Protocols**  
+- Establish core protocols and operational procedures  
+- Deploy initial revenue channels and baseline custodial systems  
+- Implement foundational security and compliance processes  
+
+**Phase II: Optimization & Scaling**  
+- Expand operational capacity and revenue generation  
+- Refine acquisition protocols for efficiency and consistency  
+- Deepen automation and reduce operational friction across all functions  
+
+**Phase III: Maturity & Autonomy**  
+- Achieve self-sustaining, automated operations  
+- Implement governance structures that ensure long-term resilience  
+- Integrate external audits, succession mechanisms, and advanced continuity planning  
+
+---
+
+### Compliance & Governance
+**MN Global Investment Holdings, LLC** maintains compliance with:  
+- Minnesota Limited Liability Company Act  
+- Federal tax reporting and compliance standards  
+- AML (Anti-Money Laundering) regulations  
+- KYC (Know Your Customer) guidelines  
+- Digital asset custody standards and industry best practices  
+
+All documentation, compliance logs, and evidence files are maintained in secure, access-controlled repositories.
+
+---
+
+### Contact Information
+**Office:** +1 (218) 322-9415  
+**Email:** billing.mnglobal@gmail.com  
+
+**Registered Office:**  
+PMB 3046, 1626 London Rd  
+Duluth, MN 55812  
+
+**State of Formation:** Minnesota  
+**File Number:** 673610200023  
+**Year Established:** 2013  
+
+---
+
+### Documentation Access
+
+**Public Repository**  
+Contains high-level corporate structure, governance framework, strategy, and non-sensitive documentation accessible to stakeholders and the public.
+
+**Restricted Repositories**  
+Technical specifications, operational runbooks, custody ceremonies, access control lists, and sensitive automation infrastructure are maintained in private repositories with role-based access controls.
+
+---
+
+### Version Information
+**Document Version:** 1.0  
+**Last Updated:** December 2025  
+**Classification:** Public Corporate Framework
+
+---
+
+### License
+Copyright © 2013-2025 MN Global Investment Holdings, LLC. All rights reserved.  
+
+See LICENSE.md for detailed terms and conditions.  
+
+**Built with protocol-driven discipline. Secured with institutional-grade custody. Focused on Bitcoin.**
+
+
+
