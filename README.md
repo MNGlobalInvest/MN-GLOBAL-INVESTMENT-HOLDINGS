@@ -1,5 +1,5 @@
 # MN Global Investment Holdings, LLC  
-## Bitcoin Accumulation Protocol (BAP v1.0)
+## Bitcoin Accumulation Protocol (BAP)
 
 ### 1. Protocol Structure & Operational Overview
 
