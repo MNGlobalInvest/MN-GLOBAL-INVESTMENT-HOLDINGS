@@ -1,156 +1,136 @@
-# MN GLOBAL INVESTMENT HOLDINGS, LLC
+# MN Global Investment Holdings, LLC  
+## Bitcoin Accumulation Protocol (BAP v1.0)
 
-**Bitcoin Accumulation Protocol**
+### 1. Protocol Structure & Operational Overview
 
----
+**Purpose:**  
+- Establish an autonomous, AI-assisted system to maximize long-term Bitcoin accumulation through DCA, opportunistic purchases, yield integration (low-risk), and strategic partnerships.  
+- Ensure all operations reinforce the **100% Bitcoin Accumulation Zone mindset**.
 
-## Overview
+**System Layers:**  
 
-MN Global Investment Holdings, LLC exists to accumulate Bitcoin. Every operational action, capital allocation, and decision serves this single purpose. The company operates as a system in perpetual accumulation state.
+**Input & Data Acquisition:**  
+- Market data feeds, exchange APIs, OTC transaction data  
+- Regulatory updates and counterparty risk reports  
+- Macro indicators (on-chain metrics, BTC price volatility)  
 
-### Objective
+**Processing & Decision Engine:**  
+- **AI-powered task prioritization:** Evaluates BTC accumulation opportunities daily  
+- **Autonomous trade logic:** Determines DCA allocations and opportunistic bulk buy triggers  
+- **Risk assessment module:** Continuously evaluates custody, counterparty, and market risk  
 
-Maximize Bitcoin accumulation over infinite time horizons.
-
----
-
-## Mission & Vision
-
-**Mission:** Maintain the lowest-energy configuration that maximizes Bitcoin accumulation.
-
-**Vision:** Operate as a self-evolving, high-fidelity system where every subsystem reinforces Bitcoin growth with minimal efficiency loss.
-
----
-
-## Core Principles
-
-### Single-Minded Purpose
-All operations conserve Bitcoin accumulation energy. No diversions.
-
-### 100% Bitcoin Reserve Policy
-State collapse occurs only into Bitcoin. No sustained fiat probability amplitudes.
-
-### Protocol-Driven Operations
-Deterministic evolution via encoded acquisition protocols. Reduces human discretion and measurement uncertainty.
-
-### Self-Scaling Infrastructure
-Subsystem entanglement ensures scalability. Operational growth occurs without linear overhead increases.
-
-### Security & Resilience
-Quantum error correction via multi-signature cold storage and compartmentalized permissions. Protection against loss and theft events.
-
-### Transparency & Auditability
-All operations exist in immutable ledger-space. Every transaction and process is observable, traceable, and reproducible.
+**Output & Execution Layer:**  
+- Automated trading instructions to exchanges and OTC partners  
+- Integration with cold-storage multi-sig wallets  
+- KPI dashboards for CEO and Advisory Council (monthly & quarterly)  
 
 ---
 
-## Repository Structure
+### 2. AI-Assisted Governance & Leadership
 
-The repository encodes all organizational and operational states.
+| Position | AI / Human Role | Function within Protocol |
+| -------- | --------------- | ---------------------- |
+| CEO | Terry Williams | Final authority on BTC acquisition and strategy |
+| Project Director (AI Agent) | Neural Network AI | Autonomous data analysis, accumulation guidance, risk alerts |
+| Lead Systems Programmer | Terry Williams | Implements AI recommendations and secure integration |
+| Advisory Council (AI) | Neural Network AI | Monthly review of KPIs, risk metrics, and strategic adjustments |
 
-```
-mnglobal/
-├── protocols/         # Acquisition operators
-├── automation/        # Time evolution operators
-├── security/          # Error correction and decoherence prevention
-├── monitoring/        # Measurement operators
-├── reporting/         # Observable outputs
-└── governance/        # Control mechanisms enforcing constraints
-```
-
-Each file and folder represents a basis vector. Combined, they define the company's state.
+**Governance Principles:**  
+- CEO approves all major accumulation decisions; AI agents execute under constraints.  
+- Autonomous AI can initiate tasks within pre-approved boundaries: DCA schedules, bulk buy alerts, or yield integration actions.  
+- Continuous improvement loops ensure AI optimizes strategy based on past performance and current market conditions.  
 
 ---
 
-## Leadership Structure
+### 3. Capital Allocation & Autonomous Acquisition Logic
 
-**Founder & CEO**  
-Primary operator defining the framework of Bitcoin accumulation.
+**Initial Deployment:**  
+- Seed Capital: **Undisclosed**  
+- Allocation: 95% BTC accumulation, 5% operational liquidity  
 
-**Project Director**  
-Operational propagation operator. Ensures state evolution follows protocol-defined trajectories.
+**Acquisition Strategies:**  
+1. **Dollar-Cost Averaging (DCA):** Automated execution based on AI schedule with daily/weekly allocation adjustments  
+2. **Opportunistic Bulk Buys:** Triggered by ≥10% dips or AI-identified undervaluations  
+3. **Strategic Partnerships & Early Access:** AI monitors fintech & mining partnerships for preferential BTC acquisition  
 
-**Lead Systems Programmer**  
-Infrastructure engineer. Designs and maintains deterministic and fault-tolerant evolution paths.
+**Monthly AI-Driven Schedule:**  
 
-**Advisory Council**  
-External operators providing controlled corrections and stability input. Applied gradually to avoid sudden state decoherence.
+| Month | Focus | AI Task & Protocol Execution |
+| ----- | ----- | --------------------------- |
+| 1–3   | Establish & Accumulate | AI sets DCA schedule, deploys initial trades, confirms multi-sig wallet setup |
+| 4–6   | Opportunistic Buys | AI monitors price dips ≥10%, recommends OTC execution |
+| 7–9   | Partnerships | AI evaluates potential partnerships, flags early access deals |
+| 10–12 | Yield Integration | AI analyzes low-risk yield platforms, deploys optional small % allocation |
+| 13–15 | Scale Operations | AI expands OTC & exchange channels, optimizes execution |
+| 16–18 | Risk Review | AI performs custody audits, counterparty stress tests |
+| 19–21 | Strategic Partnerships | AI identifies miner relationships & adoption investments |
+| 22–24 | Optimization & Reporting | AI generates full 24-month BTC accumulation report, adjusts future strategy |
 
----
-
-## Strategic Phases
-
-### Phase I: Foundation & Protocols
-Initialize state with base capital and operational protocols. Establish fundamental acquisition operators and baseline custodial potential wells.
-
-### Phase II: Optimization & Scaling
-Expand operational space. Refine acquisition amplitudes. Apply feedback loops to reduce operational friction and improve acquisition fidelity.
-
-### Phase III: Maturity & Autonomy
-Achieve steady-state Bitcoin accumulation with minimal decoherence. Integrate audit measurements as non-invasive observations preserving superposition in all operational subspaces.
-
----
-
-## Compliance & Governance
-
-External potentials shaping allowed evolution in state space:
-
-- **AML/KYC:** Boundary conditions preventing illegal transitions
-- **Regulatory Compliance:** Constraints maintaining stability
-- **Custody Standards:** Potential wells to trap Bitcoin states securely
+**Key Metrics for Monitoring:**  
+- Monthly BTC growth % (target ≥1%)  
+- Cost basis vs. market price  
+- Optional yield % contribution  
+- Custody & counterparty risk ratio  
 
 ---
 
-## Observables & Measurement
+### 4. Autonomous Integration & Control Points
 
-**Primary Observable:** Bitcoin holdings
+**Acquisition:**  
+- Exchange & OTC execution via AI agent  
+- Strategic alerts for dips or early access opportunities  
 
-**Secondary Observables:** Portfolio stability, acquisition efficiency, protocol fidelity
+**Storage & Security:**  
+- Multi-sig cold wallets, geographically distributed  
+- Automated audit schedule: AI flags anomalies or access discrepancies  
 
-**Measurement Protocol:** Non-invasive logging and reporting preserves superposition where possible. State collapses for audits.
+**Yield / Compounding (Optional, Low-Risk):**  
+- AI evaluates institutional lending platforms  
+- Allocates <5% of BTC for optional yield opportunities  
+- Avoids high-risk DeFi exposure  
 
----
-
-## Contact & Access Channels
-
-**Office:** +1 (218) 322-9415  
-**Email:** billing.mnglobal@gmail.com  
-**Registered Office:** PMB 3046, 1626 London Rd, Duluth, MN 55812
-
-**State of Formation:** Minnesota  
-**File Number:** 673610200023  
-**Year Established:** 2013
-
-Measurement interfaces allow external observers to extract information without disturbing operational superposition.
+**Influence & Network Management:**  
+- AI tracks relationships with miners, exchanges, and payment processors  
+- Early-stage adoption investment alerts for BTC inflows  
 
 ---
 
-## Documentation Access
+### 5. Risk Assessment & Automated Mitigation
 
-**Public Repository**  
-High-level corporate structure, governance framework, strategy, and non-sensitive documentation accessible to stakeholders and the public.
+| Risk Type | AI Protocol Mitigation |
+| --------- | -------------------- |
+| Bitcoin Volatility | AI triggers DCA & opportunistic buys; no leverage |
+| Custody / Theft | Multi-sig cold storage; automated AI audit & anomaly detection |
+| Regulatory | AI monitors updates; flags compliance issues |
+| Counterparty Risk | AI evaluates institutions, caps exposure |
+| Operational | AI performs self-checks & redundant system validations |
 
-**Restricted Repositories**  
-Technical specifications, operational runbooks, custody ceremonies, access control lists, and sensitive automation infrastructure. Role-based access enforced as quantum shielding for sensitive subsystems.
-
----
-
-## Versioning & Control
-
-Version-controlled repository ensures temporal coherence of protocols. License and IP act as boundary conditions preventing leakage of operational amplitudes.
-
-**Document Version:** 1.0  
-**Last Updated:** December 2025  
-**Classification:** Public Corporate Framework
+**Risk Review Cadence:**  
+- **Daily:** AI monitors market & custody conditions  
+- **Monthly:** AI updates DCA schedule, assesses storage security  
+- **Quarterly:** AI audits counterparty exposure & multi-sig validation  
+- **Annually:** Compliance & strategic partnership evaluation  
 
 ---
 
-## License
+### 6. Reporting & Dashboard Interface
 
-Copyright © 2013-2025 MN Global Investment Holdings, LLC. All rights reserved.
-
-See [LICENSE.md](LICENSE.md) for detailed terms and conditions.
+- Secure, read-only KPI dashboards for CEO & Advisory Council  
+- AI generates automated insights: BTC growth, cost basis, yield %, risk ratios  
+- Real-time alerts for dips, anomalies, or opportunity windows  
+- Monthly & quarterly reports for governance review  
 
 ---
 
-**Built with protocol-driven discipline. Secured with quantum-grade custody. Focused on Bitcoin.**and conditions.
+### 7. 24-Month AI-Driven Roadmap / Milestones
+
+| Quarter | Milestone | AI Role & Deliverables |
+| ------- | --------- | -------------------- |
+| Q1 | Legal & Operational Setup | AI validates multi-sig wallets, sets DCA protocols |
+| Q2 | Initial Accumulation | AI executes DCA & monitors OTC deals |
+| Q3 | Strategic Engagement | AI analyzes fintech partnerships & flags preferential inflows |
+| Q4 | Yield & Security Optimization | AI deploys optional low-risk yield, performs custody validation |
+| Q5 | Operational Scaling | AI optimizes OTC & exchange execution |
+| Q6 | Risk & Compliance | AI audits exposure, updates risk mitigation |
+| Q7 | Strategic Expansion | AI identifies miner & early adoption opportunities |
+| Q8 | Evaluation & Future Planning | AI generates full performance report, adjusts 24+ month accumulation strategy |
