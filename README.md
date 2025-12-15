@@ -1,143 +1,233 @@
 # MN Global Investment Holdings, LLC
-## Bitcoin Accumulation Protocol (BAP)
+
+**Nature of Business:** Bitcoin Accumulation Firm, Benchmark Operator, and Methodology Publisher
+
+**Core Principle:**  
+Accumulate more Bitcoin per unit of fiat than fixed DCA over rolling 24-month periods, or publicly concede failure. There is no alternate mission.
 
 ---
 
-## 1. Protocol Structure & Operational Overview
+## 1. Company Identity
 
-**Purpose:**
-- Establish an autonomous, AI-assisted system to maximize long-term Bitcoin accumulation through DCA, opportunistic purchases, low-risk yield integration, and strategic partnerships.
-- Ensure all operations reinforce the **100% Bitcoin Accumulation Zone** mindset.
-
-**System Layers:**
-
-### Input & Data Acquisition
-- Market data feeds, exchange APIs, OTC transaction data
-- Regulatory updates and counterparty risk reports
-- Macro indicators, including on-chain metrics and BTC price volatility
-
-### Processing & Decision Engine
-- **AI-Powered Task Prioritization:** Evaluates BTC accumulation opportunities daily
-- **Autonomous Trade Logic:** Determines DCA allocations and opportunistic bulk buy triggers
-- **Risk Assessment Module:** Continuously evaluates custody, counterparty, and market risk
-
-### Output & Execution Layer
-- Automated trading instructions to exchanges and OTC partners
-- Integration with cold-storage multi-sig wallets
-- KPI dashboards for CEO and Advisory Council (monthly & quarterly)
+**Legal Name:** MN Global Investment Holdings, LLC  
+**Nature of Business:** Bitcoin Accumulation Firm, Benchmark Operator, and Methodology Publisher  
+**Core Principle:** Accumulate more Bitcoin per unit of fiat than fixed DCA over rolling 24-month periods, or publicly concede failure.
 
 ---
 
-## 2. AI-Assisted Governance & Leadership
+## 2. Three-Layer Operating Model
 
-| Position | AI / Human Role | Function within Protocol |
-|----------|----------------|------------------------|
-| CEO | Terry Williams | Final authority on BTC acquisition and strategy |
-| Project Director (AI Agent) | Neural Network AI | Autonomous data analysis, accumulation guidance, risk alerts |
-| Lead Systems Programmer | Terry Williams | Implements AI recommendations and secure integration |
-| Advisory Council (AI) | Neural Network AI | Monthly review of KPIs, risk metrics, and strategic adjustments |
+### Layer I — Quiet Accumulation Firm (CORE)
+**Function:** Privately and relentlessly accumulate Bitcoin under the Bitcoin Accumulation Protocol (BAP-V1).  
+**Rules:**  
+- 100% BTC accumulation capital  
+- No leverage  
+- No yield  
+- No lending  
+- No derivatives  
+- No pooled external capital  
+- No custody delegation beyond execution  
+**Outcome Metric:** Total BTC accumulated vs fixed DCA  
+**Notes:** This layer survives even if the public layers are shut down.
 
-**Governance Principles:**
-- CEO approves all major accumulation decisions; AI agents execute under defined constraints.
-- Autonomous AI can initiate tasks within pre-approved boundaries: DCA schedules, bulk buy alerts, or yield integration actions.
-- Continuous improvement loops ensure AI optimizes strategy based on past performance and current market conditions.
+### Layer II — Public Benchmark Authority
+**Function:** Operate and publish the MN Global Bitcoin Accumulation Index (MBAI) and its fixed-DCA comparator (FDCAI).  
+**Rules:**  
+- Publish monthly results without interpretation  
+- Publish all methodology and parameter changes  
+- Highlight underperformance explicitly  
+- Never restate history  
+**Outcome Metric:** Credibility over time, not popularity
 
----
-
-## 3. Capital Allocation & Autonomous Acquisition Logic
-
-**Initial Deployment:**
-- **Seed Capital:** Undisclosed
-- **Allocation:** 95% BTC accumulation, 5% operational liquidity
-
-**Acquisition Strategies:**
-- **Dollar-Cost Averaging (DCA):** Automated execution based on AI schedule with daily/weekly allocation adjustments
-- **Opportunistic Bulk Buys:** Triggered by ≥10% dips or AI-identified undervaluations
-- **Strategic Partnerships & Early Access:** AI monitors fintech and mining partnerships for preferential BTC acquisition
-
-**Monthly AI-Driven Schedule:**
-
-| Month | Focus | AI Task & Protocol Execution |
-|-------|-------|-----------------------------|
-| 1–3 | Establish & Accumulate | AI sets DCA schedule, deploys initial trades, confirms multi-sig wallet setup |
-| 4–6 | Opportunistic Buys | AI monitors price dips ≥10%, recommends OTC execution |
-| 7–9 | Partnerships | AI evaluates potential partnerships, flags early access deals |
-| 10–12 | Yield Integration | AI analyzes low-risk yield platforms, deploys optional small % allocation |
-| 13–15 | Scale Operations | AI expands OTC & exchange channels, optimizes execution |
-| 16–18 | Risk Review | AI performs custody audits, counterparty stress tests |
-| 19–21 | Strategic Partnerships | AI identifies miner relationships & adoption investments |
-| 22–24 | Optimization & Reporting | AI generates full 24-month BTC accumulation report, adjusts future strategy |
-
-**Key Metrics for Monitoring:**
-- Monthly BTC growth % (target ≥1%)
-- Cost basis vs. market price
-- Optional yield % contribution
-- Custody & counterparty risk ratio
+### Layer III — Accumulation Standard
+**Function:** Serve as the unavoidable comparison point for disciplined Bitcoin accumulation.  
+**Rules:**  
+- No marketing claims of superiority  
+- No performance promises  
+- Let others voluntarily compare against MBAI  
+**Notes:** Standards emerge from consistency, not announcements
 
 ---
 
-## 4. Autonomous Integration & Control Points
+## 3. Core Protocol (BAP-V1)
 
-**Acquisition:**
-- Exchange & OTC execution via AI agent
-- Strategic alerts for dips or early access opportunities
+**Definition:** Deterministic, rules-based Bitcoin accumulation protocol that modulates capital deployment using volatility, drawdowns, and trend suppression.
 
-**Storage & Security:**
-- Multi-sig cold wallets, geographically distributed
-- Automated audit schedule: AI flags anomalies or access discrepancies
+**Immutable Constraints:**  
+- Execution without discretion  
+- Quarterly parameter review only  
+- Forced reversion to fixed DCA upon sustained underperformance
 
-**Yield / Compounding (Optional, Low-Risk):**
-- AI evaluates institutional lending platforms
-- Allocates <5% of BTC for optional yield opportunities
-- Avoids high-risk DeFi exposure
-
-**Influence & Network Management:**
-- AI tracks relationships with miners, exchanges, and payment processors
-- Early-stage adoption investment alerts for BTC inflows
+**Ownership:** BAP-V1 is intellectual property owned by MN Global.
 
 ---
 
-## 5. Risk Assessment & Automated Mitigation
+## 4. Capital Structure
 
-| Risk Type | AI Protocol Mitigation |
-|-----------|----------------------|
-| Bitcoin Volatility | AI triggers DCA & opportunistic buys; no leverage |
-| Custody / Theft | Multi-sig cold storage; automated AI audit & anomaly detection |
-| Regulatory | AI monitors updates; flags compliance issues |
-| Counterparty Risk | AI evaluates institutions, caps exposure |
-| Operational | AI performs self-checks & redundant system validations |
+**Accumulation Capital:**  
+- Fiat committed exclusively to BTC acquisition  
+- Deployed per BAP-V1 rules  
+- Unused capital must deploy within 4 months  
 
-**Risk Review Cadence:**
-- **Daily:** AI monitors market & custody conditions
-- **Monthly:** AI updates DCA schedule, assesses storage security
-- **Quarterly:** AI audits counterparty exposure & multi-sig validation
-- **Annually:** Compliance & strategic partnership evaluation
+**Operational Capital:**  
+- Separate accounts  
+- Never converted to BTC  
+- Never included in reporting metrics  
+- No cross-contamination allowed  
 
 ---
 
-## 6. Reporting & Dashboard Interface
-- Secure, read-only KPI dashboards for CEO & Advisory Council
-- AI generates automated insights: BTC growth, cost basis, yield %, risk ratios
-- Real-time alerts for dips, anomalies, or opportunity windows
-- Monthly & quarterly reports for governance review
+## 5. Execution & Custody
+
+**Execution:**  
+- TWAP / iceberg only  
+- Multi-venue routing  
+- Volume caps enforced  
+- Slippage and fees logged  
+
+**Custody:**  
+- Multi-sig cold storage  
+- Manual signing  
+- Geographic key separation  
+- No automated withdrawals  
+- Automation stops at execution; security remains human  
 
 ---
 
-## 7. 24-Month AI-Driven Roadmap / Milestones
+## 6. Historical Validation (Permanent)
 
-| Quarter | Milestone | AI Role & Deliverables |
-|---------|-----------|-----------------------|
-| Q1 | Legal & Operational Setup | AI validates multi-sig wallets, sets DCA protocols |
-| Q2 | Initial Accumulation | AI executes DCA & monitors OTC deals |
-| Q3 | Strategic Engagement | AI analyzes fintech partnerships & flags preferential inflows |
-| Q4 | Yield & Security Optimization | AI deploys optional low-risk yield, performs custody validation |
-| Q5 | Operational Scaling | AI optimizes OTC & exchange execution |
-| Q6 | Risk & Compliance | AI audits exposure, updates risk mitigation |
-| Q7 | Strategic Expansion | AI identifies miner & early adoption opportunities |
-| Q8 | Evaluation & Future Planning | AI generates full performance report, adjusts 24+ month accumulation strategy |
+**Required Back-Test Regimes:**  
+- 2018 Bear Market  
+- 2020 Liquidity Shock  
+- 2022 Deleveraging Cycle  
+
+**Published Data Includes:**  
+- BTC accumulated vs DCA  
+- Capital exhaustion analysis  
+- Liquidity stress outcomes  
+- Parameter sensitivity  
+
+**Notes:** These results are immutable and permanently linked to MBAI.  
 
 ---
 
-**Executive Summary:**  
-MN Global Investment Holdings, LLC’s **Bitcoin Accumulation Protocol (BAP)** represents a fully autonomous, AI-assisted strategy for disciplined, long-term Bitcoin acquisition. It integrates governance, execution, risk management, and reporting to ensure sustainable growth while adhering to a 100% Bitcoin Accumulation Zone philosophy.
+## 7. The MN Global Bitcoin Accumulation Index (MBAI)
+
+**Purpose:** Measure Bitcoin accumulation efficiency — not returns, not price performance.  
+**Definition:** BTC accumulated per standardized fiat unit under BAP-V1 rules.  
+
+**Comparator:** Fixed DCA Accumulation Index (FDCAI)  
+
+**Rules:**  
+- Index values never revised  
+- Methodology changes logged prospectively  
+- Rolling 24-month score always visible  
+- Underperformance displayed in red  
+
+---
+
+## 8. Reporting & Transparency (No Hiding)
+
+**Monthly Public Report (Mandatory) Must Include:**  
+- BTC accumulated (MBAI vs FDCAI)  
+- Absolute and % BTC delta  
+- Fiat deployed  
+- Slippage and fees  
+- Protocol status: Active / Frozen / Reverted to DCA  
+
+**Automatic Consequences Framework:**  
+| Condition | Action |
+|-----------|--------|
+| Underperform FDCAI 6 months | Public flag |
+| Underperform FDCAI 12 months | Parameter freeze |
+| Underperform FDCAI 24 months | Forced DCA reversion |
+
+**Notes:** There is no override authority.  
+
+---
+
+## 9. Licensing & Follower Structure
+
+**Purpose:** Enable others to follow the methodology without transferring trust or capital.  
+
+**Tiers:**  
+- Observers – Read-only access  
+- Mirrors – Self-execute, publish results  
+- Licensed Executors – Audited methodology use  
+
+**Licensing Rules:**  
+- No advice  
+- No pooled capital  
+- Mandatory disclosure  
+- Mandatory publication of results  
+- Failure to publish = license revoked permanently  
+
+---
+
+## 10. Legal & Regulatory Posture
+
+MN Global is legally positioned as:  
+- A proprietary accumulator  
+- A methodology publisher  
+- A benchmark operator  
+
+It is explicitly **not:**  
+- An investment fund  
+- An advisor  
+- A broker  
+- A custodian  
+
+All public materials reinforce this distinction.  
+
+---
+
+## 11. Governance (Minimal & Hard)
+
+**CEO (Human): Terry Williams**  
+- Quarterly parameter setting  
+- Custody oversight  
+- Legal compliance  
+
+**Cannot:**  
+- Override execution  
+- Suppress reports  
+- Alter index history  
+
+**System:**  
+- Executes rules  
+- Publishes reports  
+- Enforces consequences  
+
+**Kill Clause:**  
+- If BAP fails two consecutive rolling 24-month periods:  
+  - Protocol retired  
+  - MBAI archived  
+  - Company defaults to fixed DCA indefinitely  
+  - No resurrection without public restart  
+
+---
+
+## 12. Cultural Law (Unwritten but Enforced)
+
+- Results over narratives  
+- Accumulation over attention  
+- Survival over speed  
+- Transparency over ego  
+- Anyone unwilling to publish losses does not belong here  
+
+---
+
+## Final Status
+
+This company:  
+- Does not need trust  
+- Does not need hype  
+- Does not need permission  
+- Cannot hide failure  
+
+It will either:  
+- Quietly accumulate Bitcoin better than most people on Earth, **or**  
+- Publicly prove that fixed DCA is unbeatable  
+
+**Both outcomes are honest. Both are valuable. That’s what makes this bulletproof.**
 
