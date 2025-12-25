@@ -1,6 +1,8 @@
 # MN Global Investment Holdings, LLC
 
-**Bitcoin-Exclusive Infrastructure Coordination Company**
+**Bitcoin-Core-Aligned Infrastructure Coordination Company**  
+*Founded 2013, Virginia, Minnesota*  
+**CEO:** Terry Williams
 
 ---
 
@@ -24,7 +26,7 @@ It exists to support protocol execution, **not** to control capital.
 
 ## 2. Core Company Definition
 
-MN Global is a **Bitcoin-exclusive infrastructure coordination company** that enables non-custodial allocation of Bitcoin capital to Bitcoin infrastructure operators—beginning with Lightning Network routing nodes—using transparent rules and automated fee distribution.
+MN Global is a **Bitcoin-core-aligned infrastructure coordination company** that enables non-custodial allocation of Bitcoin capital to Bitcoin infrastructure operators—beginning with Lightning Network routing nodes—using transparent rules and automated fee distribution.
 
 The company coordinates **capital, performance data, and incentives**, without custody, discretion, or exposure to non-Bitcoin systems.
 
@@ -34,20 +36,20 @@ The company coordinates **capital, performance data, and incentives**, without c
 
 These constraints are structural and non-negotiable.
 
-### 3.1 Bitcoin-Exclusive Monetary Domain
+### 3.1 Bitcoin-Core-Aligned Reserve
 
-MN Global operates within a strictly **Bitcoin-exclusive monetary domain**.
+MN Global operates with a strictly **Bitcoin-core-aligned reserve**.
 
-- Treasury holds **Bitcoin only**
-- No fiat reserves
-- No stablecoins
-- No altcoins
-- No derivatives, hedging instruments, or synthetic yield products
+- Holds **Bitcoin only**  
+- No fiat reserves  
+- No stablecoins  
+- No altcoins  
+- No derivatives, hedging instruments, or synthetic yield products  
 
 **Bitcoin serves as:**
 - Unit of account  
-- Treasury reserve  
-- Long-term capital base  
+- Reserve capital  
+- Long-term operational base  
 
 This constraint is enforced by design and cannot be relaxed.
 
@@ -160,7 +162,7 @@ MN Global earns revenue through:
 - Optional analytics, reporting, or integration services (non-custodial)  
 - Support contracts with large operators or institutions  
 
-Revenue is received in Bitcoin and held in treasury.  
+Revenue is received in Bitcoin and held in the **Bitcoin-core-aligned reserve**.  
 No token issuance is required for core operations.
 
 ---
@@ -193,7 +195,7 @@ No party benefits from complexity, opacity, or leverage.
 ## 11. Competitive Positioning
 
 MN Global’s advantage is **discipline, not abstraction**:
-- Bitcoin-exclusive monetary design  
+- Bitcoin-core-aligned design  
 - No custody risk  
 - Infrastructure-first economics  
 - Minimal legal surface area  
@@ -230,7 +232,7 @@ Expansion is allowed only after:
 - Not a DAO theater  
 - Not a yield platform  
 
-MN Global is a **Bitcoin-exclusive infrastructure coordination company**.
+MN Global is a **Bitcoin-core-aligned infrastructure coordination company**.
 
 ---
 
