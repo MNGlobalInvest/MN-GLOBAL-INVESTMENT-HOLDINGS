@@ -1,233 +1,223 @@
 # MN Global Investment Holdings, LLC
 
-**Nature of Business:** Bitcoin Accumulation Firm, Benchmark Operator, and Methodology Publisher
-
-**Core Principle:**  
-Accumulate more Bitcoin per unit of fiat than fixed DCA over rolling 24-month periods, or publicly concede failure. There is no alternate mission.
+**Bitcoin-Only Infrastructure Coordination Company**
 
 ---
 
-## 1. Company Identity
+## 1. Legal Entity
 
-**Legal Name:** MN Global Investment Holdings, LLC  
-**Nature of Business:** Bitcoin Accumulation Firm, Benchmark Operator, and Methodology Publisher  
-**Core Principle:** Accumulate more Bitcoin per unit of fiat than fixed DCA over rolling 24-month periods, or publicly concede failure.
+**Name:** MN Global Investment Holdings, LLC  
+**Jurisdiction:** United States  
+
+**Legal Purpose:**  
+MN Global Investment Holdings, LLC exists to design, publish, and maintain Bitcoin-only coordination software and protocols, and to interface with off-chain entities where a legal wrapper is required.
+
+**The LLC:**
+- Does **not** custody user funds  
+- Does **not** promise returns  
+- Does **not** act as a fiduciary  
+- Does **not** employ staff  
+
+It exists to support protocol execution, **not** to control capital.
 
 ---
 
-## 2. Three-Layer Operating Model
+## 2. Core Company Definition
 
-### Layer I — Quiet Accumulation Firm (CORE)
-**Function:** Privately and relentlessly accumulate Bitcoin under the Bitcoin Accumulation Protocol (BAP-V1).  
-**Rules:**  
-- 100% BTC accumulation capital  
+MN Global is a **Bitcoin-only infrastructure coordination company** that enables non-custodial allocation of Bitcoin capital to Bitcoin infrastructure operators—starting with Lightning Network routing nodes—using transparent rules and automated fee distribution. The company coordinates **capital, performance data, and incentives**, without taking custody or discretionary control.
+
+---
+
+## 3. Immutable Operating Constraints
+
+These constraints are structural and non-negotiable.
+
+### 3.1 100% Bitcoin Balance Sheet
+- Treasury holds **Bitcoin only**  
+- No fiat reserves, stablecoins, altcoins, derivatives, hedging instruments, or yield products  
+
+**Bitcoin functions as:**
+- Unit of account  
+- Treasury reserve  
+- Long-term capital base  
+
+### 3.2 No Employees
+- Zero W-2 employees  
+- No payroll or permanent staff  
+
+All work is performed by:
+- Independent contractors  
+- Open-source contributors  
+- Specialized service providers  
+
+**Compensation is:**  
+- Bitcoin-denominated  
+- Performance-based  
+- Revocable and time-bounded  
+
+This eliminates payroll risk, organizational bloat, and fiat dependency.
+
+---
+
+## 4. Problem Statement
+
+Bitcoin infrastructure requires capital to scale efficiently. Capital providers want exposure to **real Bitcoin infrastructure fees** without custody risk.
+
+**Current reality:**
+- Capital coordination is manual and trust-based  
+- Performance metrics are opaque  
+- Fee distribution lacks transparency  
+- Infrastructure growth is capital-constrained  
+
+This slows Bitcoin’s second-layer expansion and concentrates operational risk.
+
+---
+
+## 5. Solution Overview
+
+MN Global provides Bitcoin-only coordination software that enables:
+- Non-custodial Bitcoin capital allocation  
+- Performance-based infrastructure operator selection  
+- Automated, rules-based fee accounting  
+- Transparent, auditable payout logic  
+
+**Key principles:**
+- No pooled custody  
 - No leverage  
-- No yield  
-- No lending  
-- No derivatives  
-- No pooled external capital  
-- No custody delegation beyond execution  
-**Outcome Metric:** Total BTC accumulated vs fixed DCA  
-**Notes:** This layer survives even if the public layers are shut down.
+- No rehypothecation  
+- No promised yield  
 
-### Layer II — Public Benchmark Authority
-**Function:** Operate and publish the MN Global Bitcoin Accumulation Index (MBAI) and its fixed-DCA comparator (FDCAI).  
-**Rules:**  
-- Publish monthly results without interpretation  
-- Publish all methodology and parameter changes  
-- Highlight underperformance explicitly  
-- Never restate history  
-**Outcome Metric:** Credibility over time, not popularity
-
-### Layer III — Accumulation Standard
-**Function:** Serve as the unavoidable comparison point for disciplined Bitcoin accumulation.  
-**Rules:**  
-- No marketing claims of superiority  
-- No performance promises  
-- Let others voluntarily compare against MBAI  
-**Notes:** Standards emerge from consistency, not announcements
+Returns come exclusively from real infrastructure activity.
 
 ---
 
-## 3. Core Protocol (BAP-V1)
+## 6. Initial Focus: Lightning Network Capital Coordination
 
-**Definition:** Deterministic, rules-based Bitcoin accumulation protocol that modulates capital deployment using volatility, drawdowns, and trend suppression.
+**Why Lightning:**
+- Proven fee-generating infrastructure  
+- Clear capital requirements  
+- Measurable performance  
+- Existing operator demand  
 
-**Immutable Constraints:**  
-- Execution without discretion  
-- Quarterly parameter review only  
-- Forced reversion to fixed DCA upon sustained underperformance
+**MN Global Coordinates:**
+- Bitcoin liquidity allocated to routing nodes  
+- Performance tracking (uptime, routing volume, efficiency)  
+- Automated fee sharing between capital providers and operators  
 
-**Ownership:** BAP-V1 is intellectual property owned by MN Global.
-
----
-
-## 4. Capital Structure
-
-**Accumulation Capital:**  
-- Fiat committed exclusively to BTC acquisition  
-- Deployed per BAP-V1 rules  
-- Unused capital must deploy within 4 months  
-
-**Operational Capital:**  
-- Separate accounts  
-- Never converted to BTC  
-- Never included in reporting metrics  
-- No cross-contamination allowed  
+This is a narrow, real market with immediate demand.
 
 ---
 
-## 5. Execution & Custody
+## 7. How the System Operates
 
-**Execution:**  
-- TWAP / iceberg only  
-- Multi-venue routing  
-- Volume caps enforced  
-- Slippage and fees logged  
+### 7.1 Capital Providers
+- Retain control of private keys  
+- Commit Bitcoin via time-bound, script-enforced conditions  
+- Earn proportional routing fees  
+- Exit at predefined intervals  
 
-**Custody:**  
-- Multi-sig cold storage  
-- Manual signing  
-- Geographic key separation  
-- No automated withdrawals  
-- Automation stops at execution; security remains human  
+> No capital is ever transferred to MN Global.
 
----
+### 7.2 Infrastructure Operators
+- Register nodes and publish verifiable performance metrics  
+- Compete for capital allocation  
+- Earn fees tied directly to real routing activity  
+- Face penalties for downtime or dishonest reporting  
 
-## 6. Historical Validation (Permanent)
+### 7.3 MN Global’s Role
+- Publishes coordination software  
+- Maintains performance dashboards  
+- Enforces transparent rules  
+- Collects a small coordination fee  
 
-**Required Back-Test Regimes:**  
-- 2018 Bear Market  
-- 2020 Liquidity Shock  
-- 2022 Deleveraging Cycle  
-
-**Published Data Includes:**  
-- BTC accumulated vs DCA  
-- Capital exhaustion analysis  
-- Liquidity stress outcomes  
-- Parameter sensitivity  
-
-**Notes:** These results are immutable and permanently linked to MBAI.  
+> MN Global cannot seize, redirect, or rehypothecate funds.
 
 ---
 
-## 7. The MN Global Bitcoin Accumulation Index (MBAI)
+## 8. Revenue Model
+MN Global earns revenue through:
+- A fixed coordination fee on infrastructure fees processed through the system  
+- Optional analytics, reporting, or integration services (non-custodial)  
+- Support contracts with large operators or institutions  
 
-**Purpose:** Measure Bitcoin accumulation efficiency — not returns, not price performance.  
-**Definition:** BTC accumulated per standardized fiat unit under BAP-V1 rules.  
-
-**Comparator:** Fixed DCA Accumulation Index (FDCAI)  
-
-**Rules:**  
-- Index values never revised  
-- Methodology changes logged prospectively  
-- Rolling 24-month score always visible  
-- Underperformance displayed in red  
+Revenue is received in Bitcoin and held in treasury.  
+No token issuance is required for core operations.
 
 ---
 
-## 8. Reporting & Transparency (No Hiding)
+## 9. Governance Model
 
-**Monthly Public Report (Mandatory) Must Include:**  
-- BTC accumulated (MBAI vs FDCAI)  
-- Absolute and % BTC delta  
-- Fiat deployed  
-- Slippage and fees  
-- Protocol status: Active / Frozen / Reverted to DCA  
+**Phase 1 — Centralized Control with Transparency**
+- Protocol parameters set by MN Global  
+- Public documentation and dashboards  
+- Fast iteration and execution  
 
-**Automatic Consequences Framework:**  
-| Condition | Action |
-|-----------|--------|
-| Underperform FDCAI 6 months | Public flag |
-| Underperform FDCAI 12 months | Parameter freeze |
-| Underperform FDCAI 24 months | Forced DCA reversion |
+**Phase 2 — Constrained Governance (Only if Earned)**
+- Rule-bound parameter adjustments  
+- Limited participant input  
+- No open-ended DAO governance  
 
-**Notes:** There is no override authority.  
+> Governance exists to protect system integrity—not to simulate decentralization.
 
 ---
 
-## 9. Licensing & Follower Structure
+## 10. Incentive Alignment
+- Capital providers earn real infrastructure fees  
+- Operators earn based on measurable performance  
+- MN Global earns only when the system is used  
 
-**Purpose:** Enable others to follow the methodology without transferring trust or capital.  
-
-**Tiers:**  
-- Observers – Read-only access  
-- Mirrors – Self-execute, publish results  
-- Licensed Executors – Audited methodology use  
-
-**Licensing Rules:**  
-- No advice  
-- No pooled capital  
-- Mandatory disclosure  
-- Mandatory publication of results  
-- Failure to publish = license revoked permanently  
+> No party benefits from complexity, opacity, or leverage.
 
 ---
 
-## 10. Legal & Regulatory Posture
+## 11. Competitive Positioning
+MN Global’s advantage is **discipline, not abstraction**:
+- Bitcoin-only focus  
+- No custody risk  
+- Infrastructure-first economics  
+- Minimal legal surface area  
+- Simple, auditable incentives  
 
-MN Global is legally positioned as:  
-- A proprietary accumulator  
-- A methodology publisher  
-- A benchmark operator  
-
-It is explicitly **not:**  
-- An investment fund  
-- An advisor  
-- A broker  
-- A custodian  
-
-All public materials reinforce this distinction.  
-
----
-
-## 11. Governance (Minimal & Hard)
-
-**CEO (Human): Terry Williams**  
-- Quarterly parameter setting  
-- Custody oversight  
-- Legal compliance  
-
-**Cannot:**  
-- Override execution  
-- Suppress reports  
-- Alter index history  
-
-**System:**  
-- Executes rules  
-- Publishes reports  
-- Enforces consequences  
-
-**Kill Clause:**  
-- If BAP fails two consecutive rolling 24-month periods:  
-  - Protocol retired  
-  - MBAI archived  
-  - Company defaults to fixed DCA indefinitely  
-  - No resurrection without public restart  
+Forking the code does **not** replicate:
+- Historical performance data  
+- Operator reputation  
+- Capital provider trust  
+- Operational credibility
 
 ---
 
-## 12. Cultural Law (Unwritten but Enforced)
+## 12. Expansion Policy
+Expansion is allowed only after:
+- Core system profitability  
+- Proven operator demand  
+- Stable capital participation  
 
-- Results over narratives  
-- Accumulation over attention  
-- Survival over speed  
-- Transparency over ego  
-- Anyone unwilling to publish losses does not belong here  
+**Possible expansions:**
+- Larger Lightning operators  
+- Cross-node liquidity optimization  
+- Other Bitcoin infrastructure services  
+
+> No expansion into non-Bitcoin systems.
 
 ---
 
-## Final Status
+## 13. What MN Global Is Not
+- Not a bank  
+- Not a custodian  
+- Not a hedge fund  
+- Not a DAO theater  
+- Not a yield platform  
 
-This company:  
-- Does not need trust  
-- Does not need hype  
-- Does not need permission  
-- Cannot hide failure  
+> MN Global is a Bitcoin-only coordination company.
 
-It will either:  
-- Quietly accumulate Bitcoin better than most people on Earth, **or**  
-- Publicly prove that fixed DCA is unbeatable  
+---
 
-**Both outcomes are honest. Both are valuable. That’s what makes this bulletproof.**
+## 14. Closing Statement
+MN Global Investment Holdings, LLC is designed to:
+- Strengthen Bitcoin infrastructure  
+- Eliminate custodial risk  
+- Align capital with real economic activity  
+- Operate with minimal trust and maximal transparency  
+
+> This company survives on Bitcoin, execution, and discipline—nothing else.
 
