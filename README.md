@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Legal Entity
+## Legal Entity
 
 **Name:** MN Global Investment Holdings, LLC  
 **Jurisdiction:** United States  
@@ -24,7 +24,7 @@ It exists to support protocol execution, **not** to control capital.
 
 ---
 
-## 2. Core Company Definition
+## Core Company Definition
 
 MN Global is a **Bitcoin-core-aligned infrastructure coordination company** that enables non-custodial allocation of Bitcoin capital to Bitcoin infrastructure operators—beginning with Lightning Network routing nodes—using transparent rules and automated fee distribution.
 
@@ -32,11 +32,11 @@ The company coordinates **capital, performance data, and incentives**, without c
 
 ---
 
-## 3. Immutable Operating Constraints
+## Immutable Operating Constraints
 
 These constraints are structural and non-negotiable.
 
-### 3.1 Bitcoin-Core-Aligned Reserve
+### Bitcoin-Core-Aligned Reserve
 
 MN Global operates with a strictly **Bitcoin-core-aligned reserve**.
 
@@ -53,9 +53,7 @@ MN Global operates with a strictly **Bitcoin-core-aligned reserve**.
 
 This constraint is enforced by design and cannot be relaxed.
 
----
-
-### 3.2 No Employees
+### No Employees
 
 - Zero W-2 employees  
 - No payroll  
@@ -75,7 +73,7 @@ This structure eliminates payroll risk, organizational bloat, and fiat dependenc
 
 ---
 
-## 4. Problem Statement
+## Problem Statement
 
 Bitcoin infrastructure requires capital to scale efficiently.  
 Capital providers want exposure to **real Bitcoin infrastructure fees** without custody risk.
@@ -90,7 +88,7 @@ This slows second-layer expansion and concentrates operational risk.
 
 ---
 
-## 5. Solution Overview
+## Solution Overview
 
 MN Global provides **Bitcoin-denominated coordination software** that enables:
 - Non-custodial Bitcoin capital allocation  
@@ -108,7 +106,7 @@ Returns arise exclusively from real infrastructure activity.
 
 ---
 
-## 6. Initial Focus: Lightning Network Capital Coordination
+## Initial Focus: Lightning Network Capital Coordination
 
 ### Why Lightning
 - Proven fee-generating Bitcoin infrastructure  
@@ -125,9 +123,9 @@ This is a narrow, real market with immediate demand.
 
 ---
 
-## 7. How the System Operates
+## How the System Operates
 
-### 7.1 Capital Providers
+### Capital Providers
 - Retain full control of private keys  
 - Commit Bitcoin via time-bound, script-enforced conditions  
 - Earn proportional routing fees  
@@ -135,17 +133,13 @@ This is a narrow, real market with immediate demand.
 
 > No capital is ever transferred to MN Global.
 
----
-
-### 7.2 Infrastructure Operators
+### Infrastructure Operators
 - Register nodes and publish verifiable performance metrics  
 - Compete for Bitcoin capital allocation  
 - Earn fees tied directly to real routing activity  
 - Face penalties for downtime or dishonest reporting  
 
----
-
-### 7.3 MN Global’s Role
+### MN Global’s Role
 - Publishes Bitcoin-denominated coordination software  
 - Maintains performance dashboards  
 - Enforces transparent, deterministic rules  
@@ -155,7 +149,7 @@ This is a narrow, real market with immediate demand.
 
 ---
 
-## 8. Revenue Model
+## Revenue Model
 
 MN Global earns revenue through:
 - A fixed coordination fee on Bitcoin infrastructure fees processed through the system  
@@ -167,7 +161,7 @@ No token issuance is required for core operations.
 
 ---
 
-## 9. Governance Model
+## Governance Model
 
 ### Phase 1 — Centralized Control with Transparency
 - Protocol parameters set by MN Global  
@@ -183,7 +177,7 @@ Governance exists to protect system integrity—not to simulate decentralization
 
 ---
 
-## 10. Incentive Alignment
+## Incentive Alignment
 - Capital providers earn real Bitcoin infrastructure fees  
 - Operators earn based on measurable performance  
 - MN Global earns only when the system is used  
@@ -192,7 +186,7 @@ No party benefits from complexity, opacity, or leverage.
 
 ---
 
-## 11. Competitive Positioning
+## Competitive Positioning
 
 MN Global’s advantage is **discipline, not abstraction**:
 - Bitcoin-core-aligned design  
@@ -209,7 +203,7 @@ Forking the code does **not** replicate:
 
 ---
 
-## 12. Expansion Policy
+## Expansion Policy
 
 Expansion is allowed only after:
 - Core system profitability  
@@ -225,7 +219,7 @@ Expansion is allowed only after:
 
 ---
 
-## 13. What MN Global Is Not
+## What MN Global Is Not
 - Not a bank  
 - Not a custodian  
 - Not a hedge fund  
@@ -236,7 +230,7 @@ MN Global is a **Bitcoin-core-aligned infrastructure coordination company**.
 
 ---
 
-## 14. Closing Statement
+## Closing Statement
 
 MN Global Investment Holdings, LLC is designed to:
 - Strengthen Bitcoin infrastructure  
