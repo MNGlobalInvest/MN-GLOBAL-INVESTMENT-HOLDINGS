@@ -1,242 +1,89 @@
-# MN Global Investment Holdings, LLC
-
-**Bitcoin Core Aligned Infrastructure Coordination Company**  
-*Founded 2013, Virginia, Minnesota*  
-**CEO:** Terry Williams
+# MN Global Bitcoin Protocol
+> **Accumulate. Secure. Survive. No exceptions.**
 
 ---
 
-## Legal Entity
+## 01. Protocol Specification
+The **MN Global Bitcoin Protocol** is the operational source code for **MN Global Investment Holdings LLC**. The company is the repository; the repository is the company. It is an immutable rule set governing long-duration Bitcoin accumulation under sovereign custody.
 
-**Name:** MN Global Investment Holdings, LLC  
-**Jurisdiction:** United States  
-
-**Legal Purpose:**  
-MN Global Investment Holdings, LLC exists to design, publish, and maintain **Bitcoin denominated infrastructure coordination software and protocols**, and to interface with off-chain entities where a legal wrapper is required.
-
-**The LLC:**
-- Does **not** custody user funds  
-- Does **not** promise returns  
-- Does **not** act as a fiduciary  
-- Does **not** employ staff  
-
-It exists to support protocol execution, **not** to control capital.
+The system is designed to eliminate emotional decision-making, counterparty exposure, and discretionary risk. Survival across time is the singular KPI. Any deviation from this protocol is a system failure, not a decision.
 
 ---
 
-## Core Company Definition
+## 02. Governance Logic
+The entity operates on **5-Year Rolling Cycles**. Logic is locked at cycle-start.
 
-MN Global is a **Bitcoin core aligned infrastructure coordination company** that enables non custodial allocation of Bitcoin capital to Bitcoin infrastructure operators beginning with Lightning Network routing nodes using transparent rules and automated fee distribution.
-
-The company coordinates **capital, performance data, and incentives**, without custody, discretion, or exposure to non Bitcoin systems.
-
----
-
-## Immutable Operating Constraints
-
-These constraints are structural and non negotiable.
-
-### Bitcoin Core Aligned Reserve
-
-MN Global operates with a strictly **Bitcoin core aligned reserve**.
-
-- Holds **Bitcoin only**  
-- No fiat reserves  
-- No stablecoins  
-- No altcoins  
-- No derivatives, hedging instruments, or synthetic yield products  
-
-**Bitcoin serves as:**
-- Unit of account  
-- Reserve capital  
-- Long-term operational base  
-
-This constraint is enforced by design and cannot be relaxed.
-
-### No Employees
-
-- Zero W-2 employees  
-- No payroll  
-- No permanent staff  
-
-All work is performed by:
-- Independent contractors  
-- Open-source contributors  
-- Specialized service providers  
-
-**Compensation is:**
-- Bitcoin-denominated  
-- Performance-based  
-- Revocable and time-bounded  
-
-This structure eliminates payroll risk, organizational bloat, and fiat dependency.
+| Component | Implementation | Status |
+| :--- | :--- | :--- |
+| **Philosophy** | Discipline over discretion. Minimalism over complexity. | **Locked** |
+| **Amendment** | Zero mid-cycle amendments, exceptions, or overrides. | **Locked** |
+| **Validation** | Deviation = Protocol Failure. | **Active** |
 
 ---
 
-## Problem Statement
+## 03. Core Operational Blueprint
 
-Bitcoin infrastructure requires capital to scale efficiently.  
-Capital providers want exposure to **real Bitcoin infrastructure fees** without custody risk.
+### Treasury Management
+Accumulation is driven by deterministic flows. Discretionary buying is prohibited.
+* **Base DCA:** $115 USD / Month.
+* **Volatility Reserve:** $15 USD / Month.
+* **Deployment Trigger:** Reserve deploys only during $\ge$ 5–10% BTC corrections.
+* **Unit of Account:** All metrics and ledgers are denominated in BTC.
 
-**Current reality:**
-- Capital coordination is manual and trust based  
-- Performance metrics are opaque  
-- Fee distribution lacks transparency  
-- Infrastructure growth is capital constrained  
-
-This slows second layer expansion and concentrates operational risk.
-
----
-
-## Solution Overview
-
-MN Global provides **Bitcoin-denominated coordination software** that enables:
-- Non-custodial Bitcoin capital allocation  
-- Performance based infrastructure operator selection  
-- Automated, rules-based fee accounting  
-- Transparent, auditable payout logic  
-
-**There is:**
-- No pooled custody  
-- No leverage  
-- No rehypothecation  
-- No promised yield  
-
-Returns arise exclusively from real infrastructure activity.
+### Custody Architecture
+Objective: Zero counterparty exposure.
+* **Storage:** Multi-signature cold storage (Hardware-based).
+* **Verification:** Air-gapped coordination and transaction signing.
+* **Redundancy:** Geographically distributed key shards and offline backups.
+* **Documentation:** Every transaction must be auditable, reproducible, and attributable. Undocumented actions are invalid actions.
 
 ---
 
-## Initial Focus: Lightning Network Capital Coordination
-
-### Why Lightning
-- Proven fee generating Bitcoin infrastructure  
-- Clear capital requirements  
-- Measurable performance  
-- Existing operator demand  
-
-### What MN Global Coordinates
-- Bitcoin liquidity allocated to routing nodes  
-- Performance tracking (uptime, routing volume, efficiency)  
-- Automated fee sharing between capital providers and operators  
-
-This is a narrow, real market with immediate demand.
+## 04. Execution Metrics
+Success is defined by **Protocol Fidelity** (adherence), not market performance.
+* 100% DCA Execution Rate.
+* Absolute adherence to Volatility Reserve triggers.
+* Zero-loss custody integrity.
+* Completion of 5-year cycles without rule violation.
 
 ---
 
-## How the System Operates
-
-### Capital Providers
-- Retain full control of private keys  
-- Commit Bitcoin via time bound, script enforced conditions  
-- Earn proportional routing fees  
-- Exit at predefined intervals  
-
-> No capital is ever transferred to MN Global.
-
-### Infrastructure Operators
-- Register nodes and publish verifiable performance metrics  
-- Compete for Bitcoin capital allocation  
-- Earn fees tied directly to real routing activity  
-- Face penalties for downtime or dishonest reporting  
-
-### MN Global’s Role
-- Publishes Bitcoin denominated coordination software  
-- Maintains performance dashboards  
-- Enforces transparent, deterministic rules  
-- Collects a small coordination fee  
-
-> MN Global cannot seize, redirect, or rehypothecate funds.
+## 05. Technical Infrastructure
+The technology stack exists solely to remove human error and discretionary judgment.
+* **Automation:** Acquisition scripts used only to enforce schedule, not to predict price.
+* **Verification:** Cryptographic multi-sig management and immutable transaction history.
+* **Auditing:** Cold storage logs and monthly cycle-based verification ceremonies.
 
 ---
 
-## Revenue Model
+## 06. Risk and Contingency Matrix
+The protocol assumes environmental hostility.
 
-MN Global earns revenue through:
-- A fixed coordination fee on Bitcoin infrastructure fees processed through the system  
-- Optional analytics, reporting, or integration services (non custodial)  
-- Support contracts with large operators or institutions  
-
-Revenue is received in Bitcoin and held in the **Bitcoin core aligned reserve**.  
-No token issuance is required for core operations.
-
----
-
-## Governance Model
-
-### Phase 1 — Centralized Control with Transparency
-- Protocol parameters set by MN Global  
-- Public documentation and dashboards  
-- Fast iteration and execution  
-
-### Phase 2 — Constrained Governance (Only if Earned)
-- Rule bound parameter adjustments  
-- Limited participant input  
-- No open ended DAO governance  
-
-Governance exists to protect system integrity not to simulate decentralization.
+| Threat | Mitigation Strategy |
+| :--- | :--- |
+| **Key Loss** | Redundant seed storage and disaster recovery playbooks. |
+| **Geographic Disruption** | Distributed shard architecture. |
+| **Operator Failure** | Defined forced-sale response and role separation. |
+| **Regulatory Pressure** | Operating Agreement explicitly defined as BTC-only. |
 
 ---
 
-## Incentive Alignment
-- Capital providers earn real Bitcoin infrastructure fees  
-- Operators earn based on measurable performance  
-- MN Global earns only when the system is used  
-
-No party benefits from complexity, opacity, or leverage.
-
----
-
-## Competitive Positioning
-
-MN Global’s advantage is **discipline, not abstraction**:
-- Bitcoin core aligned design  
-- No custody risk  
-- Infrastructure first economics  
-- Minimal legal surface area  
-- Simple, auditable incentives  
-
-Forking the code does **not** replicate:
-- Historical performance data  
-- Operator reputation  
-- Capital provider trust  
-- Operational credibility  
+## 07. Legal and Operational Bound
+MN Global Investment Holdings LLC is a rule-bound system.
+* No speculative promises or fiduciary yield-seeking.
+* No rehypothecation or third-party lending.
+* The Operating Agreement functions as the legal wrapper for this Protocol.
 
 ---
 
-## Expansion Policy
-
-Expansion is allowed only after:
-- Core system profitability  
-- Proven operator demand  
-- Stable capital participation  
-
-**Possible expansions:**
-- Larger Lightning operators  
-- Cross node liquidity optimization  
-- Other Bitcoin denominated infrastructure services  
-
-> No expansion into non Bitcoin systems.
+## 08. Sequencing
+1. Lock 5-year cycle parameters.
+2. Initialize capital flow automation.
+3. Deploy cold storage and recovery infrastructure.
+4. Activate BTC-denominated accounting.
+5. Finalize disaster recovery playbooks.
+6. Assign governance roles and build metrics dashboard.
 
 ---
 
-## What MN Global Is Not
-- Not a bank  
-- Not a custodian  
-- Not a hedge fund  
-- Not a DAO theater  
-- Not a yield platform  
-
-MN Global is a **Bitcoin core aligned infrastructure coordination company**.
-
----
-
-## Closing Statement
-
-MN Global Investment Holdings, LLC is designed to:
-- Strengthen Bitcoin infrastructure  
-- Eliminate custodial risk  
-- Align capital with real economic activity  
-- Operate with minimal trust and maximal transparency  
-
-This company survives on **Bitcoin, execution, and discipline nothing else.**
-
+**The MN Global Bitcoin Protocol is a rule-based accumulation fortress. The system wins by not breaking.**
