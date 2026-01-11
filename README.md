@@ -1,90 +1,82 @@
-# MN Global Bitcoin Protocol
+# MN GLOBAL BITCOIN PROTOCOL
+## [ SYSTEM STATUS: OPERATIONAL ]
+## [ VERSION: 2025.RESTRUCTURE ]
 
-Accumulate. Secure. Survive. No exceptions.
+--------------------------------------------------------------------------------
+> ACCUMULATE. SECURE. SURVIVE. NO EXCEPTIONS.
+--------------------------------------------------------------------------------
 
-### 01. Corporate Origin and Protocol Evolution
+### 01 // CORPORATE ORIGIN AND EVOLUTION
+[ ORIGIN DATE : 2013 ]
+[ LOCATION    : VIRGINIA, MN ]
+[ FILE NUMBER : 673610200023 ]
 
-MN Global Investment Holdings LLC was established in 2013 in Virginia, Minnesota (Minnesota File Number: 673610200023). Since its founding, the entity has operated as a private investment holding company. Headquartered in Duluth, Minnesota, the company underwent a foundational restructuring in mid 2025.
+MN Global Investment Holdings LLC was established in 2013. Headquartered in Duluth, Minnesota, the company underwent a foundational restructuring in mid 2025. Under the leadership of CEO Terry Williams, the entity transitioned from a traditional investment firm into a rule bound system.
 
-This restructuring transitioned the entity from a traditional discretionary investment firm into a rule bound system governed by the MN Global Bitcoin Protocol. Under the leadership of CEO Terry Williams, the company is now a vehicle for a singular objective: long duration Bitcoin accumulation under sovereign custody.
+THE ENTITY’S OPERATIONAL EXISTENCE IS DEFINED BY ITS TECHNICAL SPECIFICATION.
 
-The entity’s operational existence is defined by its technical specification.
+### 02 // GOVERNANCE LOGIC
+The protocol operates on 5 Year Rolling Cycles. All logic is locked at the commencement of each cycle. 
 
-### 02. Governance Logic
+┌────────────────┬────────────────────────────────────────────┬────────────┐
+│ COMPONENT      │ IMPLEMENTATION                             │ STATUS     │
+├────────────────┼────────────────────────────────────────────┼────────────┤
+│ Philosophy     │ Discipline over discretion.                │ LOCKED     │
+│ Amendment      │ Zero mid cycle overrides or exceptions.    │ LOCKED     │
+│ Validation     │ Deviation = Protocol Failure.              │ ACTIVE     │
+└────────────────┴────────────────────────────────────────────┴────────────┘
 
-The protocol operates on 5 Year Rolling Cycles. All operational logic is locked at the commencement of each cycle. Detailed governance history is maintained in the `governance/` directory.
+### 03 // CORE OPERATIONAL BLUEPRINT
 
-| Component | Implementation | Status |
-| :--- | :--- | :--- |
-| Philosophy | Discipline over discretion. Minimalism over complexity. | Locked |
-| Amendment | Zero mid cycle overrides or exceptions. | Locked |
-| Validation | Any deviation is treated as a protocol failure. | Active |
+[ TREASURY MANAGEMENT ]
+Accumulation is driven by deterministic, recurring flows. Discretionary buying is strictly prohibited.
+* PRIMARY ACCUMULATION : Fixed monthly allocation for automated acquisition.
+* VOLATILITY RESERVE   : Secondary monthly allocation held for market corrections.
+* DEPLOYMENT TRIGGER   : Capital deployment occurs only during ≥ 5–10% BTC corrections.
+* UNIT OF ACCOUNT      : All ledgers and metrics are denominated in BTC.
 
-### 03. Core Operational Blueprint
-
-**Treasury Management**
-*Detailed logs located in `treasury/`*
-
-Accumulation is driven by deterministic, recurring flows. Discretionary timing or "trading" is strictly prohibited.
-
-* Primary Accumulation: Fixed monthly allocation for automated acquisition.
-* Volatility Reserve: Secondary monthly allocation held for market corrections.
-* Deployment Trigger: Reserve capital is deployed only during ≥ 5–10% BTC corrections.
-* Unit of Account: The entity operates on a Bitcoin Standard. All ledgers, performance metrics, and valuations are denominated in BTC.
-
-**Custody Architecture**
-*Security protocols located in `custody/`*
-
+[ CUSTODY ARCHITECTURE ]
 Objective: Zero counterparty exposure and total sovereign control.
+* STORAGE      : Multi signature cold storage utilizing hardware based entropy.
+* VERIFICATION : Air gapped coordination for all transaction signing.
+* REDUNDANCY   : Geographically distributed key shards and offline backups.
+* AUDITABILITY : Undocumented actions are recognized as invalid.
 
-* Storage: Multi signature cold storage utilizing hardware based entropy.
-* Verification: Air gapped coordination for all transaction signing.
-* Redundancy: Geographically distributed key shards and offline secure backups.
-* Auditability: Every transaction must be auditable, reproducible, and attributable. Undocumented actions are recognized as invalid.
+### 04 // EXECUTION METRICS
+Success is measured by PROTOCOL FIDELITY (adherence), not fiat performance.
+* [1] 100% Acquisition Execution Rate.
+* [2] Absolute adherence to Volatility Reserve triggers.
+* [3] Maintenance of zero loss custody integrity.
+* [4] Completion of 5 year cycles without violation.
 
-### 04. Execution Metrics
+### 05 // TECHNICAL INFRASTRUCTURE
+The technology stack exists solely to remove human error.
+* ACQUISITION : Logic based scripts to enforce frequency and volume.
+* CRYPTOGRAPHY: Multi signature management and immutable history.
+* INTEGRITY   : Monthly verification ceremonies and audit logs.
 
-Success is defined by Protocol Fidelity (adherence), not fiat denominated performance.
+### 06 // RISK AND CONTINGENCY MATRIX
+| THREAT              | MITIGATION STRATEGY                                  |
+| :------------------ | :--------------------------------------------------- |
+| KEY LOSS            | Redundant seed storage and recovery playbooks.       |
+| GEOGRAPHIC IMPACT   | Geographically distributed shard architecture.       |
+| OPERATOR FAILURE    | Forced response triggers and role separation.        |
+| REGULATORY CHANGE   | Operating Agreement defined as BTC only protocol.    |
 
-* 100% Acquisition Execution Rate.
-* Absolute adherence to Volatility Reserve deployment triggers.
-* Maintenance of zero loss custody integrity.
-* Completion of 5 year cycles without protocol violation.
-
-### 05. Technical Infrastructure
-*Source code located in `scripts/`*
-
-The technology stack exists solely to remove human error and discretionary judgment.
-
-* Acquisition: Logic based scripts to enforce frequency and volume.
-* Cryptography: Multi signature management and immutable transaction history.
-* Integrity: Monthly verification ceremonies and cold storage audit logs.
-
-### 06. Risk and Contingency Matrix
-
-The protocol assumes a hostile operational environment and prepares for catastrophic scenarios.
-
-| Threat | Mitigation Strategy |
-| :--- | :--- |
-| Key Loss | Redundant seed storage and disaster recovery playbooks. |
-| Geographic Disruption | Geographically distributed shard architecture for recovery. |
-| Operator Failure | Defined forced response triggers and strict role separation. |
-| Regulatory Change | Operating Agreement explicitly defined as a BTC only protocol. |
-
-### 07. Legal and Operational Bound
-
+### 07 // LEGAL AND OPERATIONAL BOUND
 MN Global Investment Holdings LLC is a rule bound system.
-
 * No speculative promises or fiduciary yield seeking.
 * No rehypothecation, lending, or third party custodial reliance.
 * The corporate Operating Agreement functions as the legal wrapper for this Protocol.
 
-### 08. Corporate Contact and Records
-
+### 08 // CONTACT AND RECORDS
 MN Global Investment Holdings LLC
 PMB3046, 1626 London Rd
 Duluth, MN 55812
-Phone: (218) 322 9415
-MN File Number: 673610200023
+PHONE : (218) 322 9415
+REG   : 673610200023
 
-The MN Global Bitcoin Protocol is a rule based accumulation bulwark. The system wins by not breaking.
+--------------------------------------------------------------------------------
+THE MN GLOBAL BITCOIN PROTOCOL IS A RULE BASED ACCUMULATION BULWARK.
+THE SYSTEM WINS BY NOT BREAKING.
+--------------------------------------------------------------------------------
