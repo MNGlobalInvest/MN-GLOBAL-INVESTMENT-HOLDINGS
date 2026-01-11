@@ -12,7 +12,7 @@ The entity’s operational existence is defined by its technical specification.
 
 ### 02. Governance Logic
 
-The protocol operates on 5 Year Rolling Cycles. All operational logic is locked at the commencement of each cycle.
+The protocol operates on 5 Year Rolling Cycles. All operational logic is locked at the commencement of each cycle. Detailed governance history is maintained in the `governance/` directory.
 
 | Component | Implementation | Status |
 | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ The protocol operates on 5 Year Rolling Cycles. All operational logic is locked 
 ### 03. Core Operational Blueprint
 
 **Treasury Management**
+*Detailed logs located in `treasury/`*
 
 Accumulation is driven by deterministic, recurring flows. Discretionary timing or "trading" is strictly prohibited.
 
@@ -32,6 +33,7 @@ Accumulation is driven by deterministic, recurring flows. Discretionary timing o
 * Unit of Account: The entity operates on a Bitcoin Standard. All ledgers, performance metrics, and valuations are denominated in BTC.
 
 **Custody Architecture**
+*Security protocols located in `custody/`*
 
 Objective: Zero counterparty exposure and total sovereign control.
 
@@ -50,6 +52,7 @@ Success is defined by Protocol Fidelity (adherence), not fiat denominated perfor
 * Completion of 5 year cycles without protocol violation.
 
 ### 05. Technical Infrastructure
+*Source code located in `scripts/`*
 
 The technology stack exists solely to remove human error and discretionary judgment.
 
