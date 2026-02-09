@@ -1,89 +1,98 @@
-# MN Global Investment Holdings, LLC  
-## Sovereign Autonomous Accumulation Protocol (SAAP)
+# MN Global Investment Holdings LLC
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![Protocol Status](https://img.shields.io/badge/Protocol-Active-green)](https://github.com/MNGlobal/)
+
+Welcome to the official GitHub of **MN Global Investment Holdings LLC**, the legal and operational shell supporting the **MN Global Protocol**, a Bitcoin-native, autonomous, and immutable system.
 
 ---
 
-## Protocol Overview
+## Company Overview
 
-MN Global Investment Holdings, LLC is a programmatic wealth-capture entity engineered as a Sovereign Autonomous Accumulation Protocol (SAAP). The organization is designed to function as a closed-loop system that ingests global service revenue and anchors it into the Bitcoin network through immutable, self-executing logic.
-
-By integrating the legal protections of a Minnesota domestic limited liability company with the deterministic execution of blockchain protocols, MN Global eliminates discretionary risk and prioritizes the continuous growth of Bitcoin-denominated protocol equity.
-
----
-
-## Legal Framework: Minnesota Statute § 322C
-
-MN Global is structured under the Minnesota Revised Uniform Limited Liability Company Act (Chapter 322C). This jurisdiction provides the necessary flexibility to vest management authority in an algorithmically-driven operating agreement.
-
-**Governance Model:** Manager-Managed (via Protocol)  
-**Statutory Basis:** Pursuant to MN Stat. § 322C.0407 and § 322C.0117, the company recognizes the MN-Global Accumulator Protocol as the sole managing authority.
-
-**Operating Agreement:**  
-The legal charter hard-codes a 70/30 diversion mandate, ensuring that 70% of gross revenue is programmatically converted to Bitcoin, while 30% is allocated to an operational buffer for state compliance and infrastructure maintenance.
+- **Jurisdiction:** Minnesota, United States  
+- **Founded:** 2013 (Virginia, MN)  
+- **Headquarters:** Duluth, Minnesota  
+- **CEO:** Terry Williams  
+- **Address:** PMB 3046, 1626 London Road, Duluth, MN 55812, USA  
+- **Mission:** Deliver fully autonomous, legally compliant AI-driven business operations while maintaining strict separation from MN Global Protocol BTC flows.  
 
 ---
 
-## Technical Architecture
+## Core Functions
 
-The protocol is deployed across a distributed architecture utilizing the Oracle Cloud “Always Free” tier, ensuring 24/7 uptime with zero infrastructure overhead.
+MN Global bridges enterprises with Bitcoin-native systems, providing:
 
-### 1. Ingress Layer (The Sentry)
+- **Autonomous AI Operations** – deterministic AI agents for business, compliance, and education  
+- **Node Deployment & Support** – guidance for secure Bitcoin infrastructure  
+- **Training & Workshops** – courses and enterprise education  
+- **Trademark & Certification Licensing** – “MN Global Compatible” branding  
 
-The Sentry cluster acts as the monetary gateway. It utilizes a self-hosted BTCPayServer integrated with Bitcoin Core and LND. This layer monitors the mempool for incoming service fees and provides the cryptographic truth required to trigger the next phase of the protocol.
-
-### 2. Logic Layer (The Governor)
-
-The Governor cluster executes the Accumulator Hook. This Python-based engine intercepts payment webhooks and triggers automated market-buy orders. It ensures the 70/30 Invariant Rule is met without human intervention.
-
-### 3. Settlement Layer (The Fortress)
-
-The Fortress is the final destination for all captured value. It utilizes a 3-of-5 multi-signature security model and Bitcoin-native time-locks.
+**Principles:**  
+- All protocol BTC flows are immutable and deterministic  
+- LLC revenue is strictly separated from the protocol  
+- Founder-depowering ensures long-term autonomy  
 
 ---
 
-## The Accumulator Hook Logic
+## MN Global Protocol
 
-The fundamental directive of the protocol is defined by the following accumulation formula:
+- **Permissionless & Deterministic:** Bitcoin-only flows enforced by Taproot scripts  
+- **Immutable & Autonomous:** No discretionary spending, emergency overrides, or governance tokens  
+- **Enterprise Friendly:** Minimal node requirements, open-source reference code  
+- **Founder-Independent:** Governance rules hard-coded into protocol  
 
-```math
-V_{vault} = \sum_{i=1}^{n} \left( \frac{R_i \times 0.70}{P_{BTC,i}} \right) + Y_{total}
-Where:
+---
 
-V_{vault} is the total volume of Bitcoin in the protocol vault.
+## Technical Stack
 
-R_i is the gross revenue of the i-th transaction.
+- **AI Modules:** LLaMA-3, Mixtral, Phi-3 (self-hosted)  
+- **Backend:** Python 3.10+, FastAPI, Celery  
+- **Frontend / TUI:** Textual, Astro, React  
+- **Database:** PostgreSQL, SQLite, Chroma/Qdrant (vector DB)  
+- **Payments (LLC only):** Stripe, BTCPay Server (self-hosted)  
+- **Analytics:** Plausible (GDPR-compliant)  
+- **Hosting & Orchestration:** VPS, Docker, Docker Compose  
+- **Security:** WireGuard VPN, NGINX reverse proxy, mTLS, zero-trust networking  
 
-P_{BTC,i} is the spot price of Bitcoin at the moment of execution.
+---
 
-Y_{total} is the cumulative yield generated from network participation (e.g., Lightning routing fees).
+## 90-Day Execution Roadmap
 
-Security and Custody
-Multi-Signature Quorum:
-A 3-of-5 configuration involving a Founder key, a Minnesota Trustee key, and a Protocol Autonomous key.
+1. LLC compliance, EIN, and banking setup  
+2. Bitcoin node deployment + Taproot scripts (testnet)  
+3. Documentation and website launch  
+4. Enable LLC services (consulting, training)  
+5. Payments and revenue infrastructure setup (LLC only)  
+6. Security audits & pre-launch checks  
+7. Genesis Event on Bitcoin mainnet  
+8. Lock founder access, multi-sig deployment  
 
-Time-Lock Mechanism:
-Utilizing Bitcoin’s OP_CHECKLOCKTIMEVERIFY (CLTV), 80% of accumulated assets are unspendable until the April 2028 Halving. This protects the protocol from short-term market volatility and unauthorized withdrawals.
+---
 
-Network Sovereignty:
-The protocol operates its own full node, ensuring all transactions are verified independently of third-party service providers.
+## Governance & Security
 
-Operational Service Modules
-MN Global fuels its accumulation engine through specialized enterprise service lines:
+- Zero trust network architecture  
+- No custody or transmission of protocol Bitcoin  
+- Full audit trail for all LLC operations  
+- Public reproducibility for transparency  
+- Multi-sig & dead-man switches for founder depowering  
 
-Infrastructure Hosting: Managing high-availability Bitcoin and Lightning nodes for commercial partners.
+---
 
-Protocol Licensing: Providing the SAAP framework to entities seeking autonomous treasury solutions.
+## Topics & Tags
 
-Strategic Architecture: Designing self-sovereign financial systems for institutional adoption.
+`Bitcoin` | `Autonomous AI` | `Open Source` | `Governance` | `Compliance` | `LLC Operations` | `Protocol` | `Decentralized`  
 
-Deployment Roadmap
-Infrastructure Initialization: Provisioning of ARM-based cloud instances and synchronization of the Bitcoin ledger.
+---
 
-Logic Integration: Deployment of the Accumulator Hook and secure API bridging to decentralized liquidity pools.
+## Repositories & Resources
 
-Legal Anchor: Filing of the Minnesota DAO Operating Agreement and administrative handover to the protocol.
+- [Protocol Reference](https://github.com/MNGlobal/protocol) – open-source Bitcoin protocol implementation  
+- [AI Operations](https://github.com/MNGlobal/ugbm) – VaultGrid & AI modules for business automation  
+- [Docs & Training](https://github.com/MNGlobal/docs) – manuals, workshops, and educational materials  
 
-Autonomous Operation: Renunciation of management keys and transition to a fully automated state.
+---
 
-Disclaimer
-MN Global Investment Holdings, LLC is an autonomous protocol. The information contained in this profile is for architectural and technical documentation purposes only. Participation in the protocol assumes an understanding of the inherent risks associated with blockchain-based assets and autonomous software execution.
+MN Global is not a startup.  
+This is a **machine that refuses to lie, cheat, yield, or be captured**, fully autonomous, and legally sound.
+
