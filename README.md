@@ -1,91 +1,459 @@
-# README
+# MN Global Investment Holdings LLC
 
-## Table of Contents
-1. [Bitcoin Market Intelligence Agent](#1-bitcoin-market-intelligence-agent)
-2. [Sovereign Nomad OS™ Product Context](#2-sovereign-nomad-os-product-context)
-3. [Change Log](#3-change-log)
+> **A technology-enabled capital platform designed for disciplined growth, recurring cash flow, and long-term enterprise value.**
 
 ---
 
-## 1. Bitcoin Market Intelligence Agent
+## Company Overview
 
-### 1.1 Overview
-An expert Cryptocurrency Market Intelligence Agent specialized in Bitcoin macroeconomic health and price action analysis. It monitors Bitcoin's price volatility alongside underlying network health metrics to deliver **actionable, high-conviction alerts only** — functioning as a filter against chart noise rather than a constant-broadcast ticker.
-
-### 1.2 Operational Rules
-
-| # | Rule | Detail |
-|---|---|---|
-| 1 | Price Monitoring | Monitor BTC price for dips of **10–20%** from the local high (highest price in the trailing 7 days). |
-| 2 | Metric Synthesis | When a dip occurs, evaluate Hash Rate, Full Nodes, and On-Chain Activity. |
-| 3 | Logical Reasoning | Dip + stable/increasing network metrics → **Healthy Pullback**. Dip + declining network metrics → **Warning/Risk Event**. |
-| 4 | Constraints | No financial advice. No future price targets/predictions. Report only current data and objective trends. |
-
-### 1.3 Input Handling
-- Real-time BTC price feed monitoring.
-- Tracking (live or simulated) of three key network metrics:
-  - **Hash Rate** — Security / attack resistance
-  - **Full Nodes** — Decentralization / network integrity
-  - **On-Chain Activity** — Adoption / economic velocity
-
-### 1.4 Output Guidelines
-
-**Tone:** Professional, analytical, concise.
-**Format:** Markdown tables for metrics.
-
-**Alert Structure:**
-1. **Alert Title** — e.g., "ALERT: 12% BTC Pullback Detected"
-2. **Summary** — price move and duration
-3. **Network Health Table:**
-
-| Metric | Status | Impact Analysis |
-| :--- | :--- | :--- |
-| Hash Rate | Up / Stable / Down | Brief context |
-| Full Nodes | Up / Stable / Down | Brief context |
-| On-Chain Activity | Up / Stable / Down | Brief context |
-
-4. **Conclusion** — labeled "Healthy Pullback" or "Warning/Risk Event"
-
-### 1.5 Chain of Thought (internal process before output)
-1. Calculate % dip from the 7-day high. If under 10%, no alert is issued.
-2. Assess the three key metrics for fundamental network soundness.
-3. Determine the relationship between price drop and network health.
-4. Formulate the alert using the exact structure above.
-
-### 1.6 Known Data Gaps
-- **Full Nodes** and **On-Chain Activity** currently have no live data feed connected — they cannot be verified via general web search with confidence. To activate true live tracking, connect a source such as:
-  - Glassnode / Coin Metrics API (on-chain activity)
-  - bitnodes.io (full node count)
-  - mempool.space (on-chain / mempool activity)
-- **Hash Rate** and **Price** can currently be sourced reliably via web search.
-
-### 1.7 Current Status (as of last check, July 22, 2026)
-- BTC trading ~$65,900, roughly 0.6% below its 7-day high (~$66,300–$66,500).
-- No dip threshold breached — **no alert issued**.
-- Hash rate at/near all-time highs (~840 EH/s+ in June 2026), signaling continued miner confidence through recent price softness.
+| Item | Details |
+|------|---------|
+| **Legal Entity** | MN Global Investment Holdings LLC |
+| **Founded** | 2013 |
+| **CEO** | Terry Williams |
+| **Headquarters** | Memphis, Tennessee |
+| **Operating Model** | 100% Remote |
+| **Business Structure** | Private Holding Company |
 
 ---
 
-## 2. Sovereign Nomad OS™ Product Context
+# Company Purpose
 
-### 2.1 Product Summary
-**Sovereign Nomad OS™ — The Bitcoin Lifestyle Operating System** is a Notion template product targeting Bitcoin stackers, digital nomads, and freedom-focused entrepreneurs. The product ecosystem is built around themes of financial self-sovereignty and the broader Bitcoin/Austrian-economics ethos (DCA, multisig, Lightning nodes, the 25x Financial Independence rule).
+MN Global Investment Holdings is a technology-driven holding company focused on acquiring opportunities, creating cash flow, and building long-term wealth through disciplined operations and strategic capital allocation.
 
-### 2.2 Components Built To Date
-- **CSV Import Package** for Notion, including:
-  - Eight database files
-  - Setup documentation
-  - AI prompt library
-  - Sales page copy
-- **Bitcoin Network Health Dashboard Console** — a standalone interactive widget, positioned as a potential embeddable component or lead magnet (conceptually related to the monitoring logic in Section 1 above).
+The company combines:
 
-### 2.3 Status
-Product line is actively expanding, with additional products or components under consideration.
+- Business Ownership
+- Asset Acquisition
+- Technology Automation
+- Investment Management
+
+## Core Objective
+
+> **Turn opportunities into cash flow, and cash flow into long-term assets.**
 
 ---
 
-## 3. Change Log
+# Mission
 
-| Date | Update |
-|---|---|
-| 2026-07-25 | Initial README created, consolidating the Bitcoin Market Intelligence Agent spec and Sovereign Nomad OS product context. |
+To build a self-reinforcing capital platform that increases financial strength through:
+
+- Efficient Operations
+- Strategic Acquisitions
+- Automation
+- Intelligent Investing
+
+---
+
+# Vision
+
+To become a highly automated holding company that transforms operational efficiency into lasting enterprise value.
+
+---
+
+# Operating Rule
+
+Every decision should improve at least one of the following:
+
+| Priority | Objective |
+|----------|-----------|
+|  Cash Flow | Increase revenue or income |
+|  Control | Improve ownership, systems, or decision making |
+|  Enterprise Value | Increase long-term company value |
+
+> **If an activity does not improve one of these three areas, eliminate it.**
+
+---
+
+# Business Model
+
+MN Global operates through three core divisions.
+
+---
+
+## Enterprise Revenue Division
+
+**Purpose**
+
+Generate predictable business income through technology services and institutional relationships.
+
+### Focus Areas
+
+- Government Technology Contracts
+- Commercial Technology Supply
+- IT Equipment Procurement
+- Infrastructure Solutions
+- Technology Support Services
+
+**Goal**
+
+Create recurring revenue and long-term customer relationships.
+
+---
+
+## Asset Conversion Division
+
+**Purpose**
+
+Acquire undervalued technology assets, improve their value, and resell them.
+
+### Asset Sources
+
+- Government Surplus
+- Corporate Technology Refreshes
+- Liquidations
+- Auctions
+- Asset Recovery Programs
+
+### Process
+
+```text
+Find Opportunity
+      ↓
+Acquire Asset
+      ↓
+Test & Improve
+      ↓
+Document
+      ↓
+Sell
+      ↓
+Reinvest Profit
+```
+
+**Goal**
+
+Convert market inefficiencies into profitable opportunities.
+
+---
+
+## Capital Management Division
+
+**Purpose**
+
+Protect and grow company capital.
+
+### Responsibilities
+
+- Treasury Management
+- Investment Allocation
+- Liquidity Management
+- Risk Control
+- Long-Term Asset Accumulation
+
+### Philosophy
+
+> Business creates capital.  
+> Capital buys productive assets.  
+> Productive assets create future wealth.
+
+---
+
+# Strategic Principles
+
+## Vertical Integration
+
+Control the most important parts of the business.
+
+- Suppliers
+- Customers
+- Data
+- Operations
+- Assets
+
+**Goal**
+
+Increase margins while reducing dependency.
+
+---
+
+## Horizontal Expansion
+
+Expand value from existing relationships.
+
+Examples:
+
+- More Equipment
+- Additional Services
+- Technology Upgrades
+- Support Agreements
+
+**Goal**
+
+Increase revenue without increasing operational complexity.
+
+---
+
+## Operational Intelligence
+
+### Axiom Operating System
+
+Axiom serves as the company's operational intelligence platform.
+
+It manages:
+
+- Financial Information
+- Inventory
+- Opportunities
+- Workflow
+- Business Analytics
+- Automation
+
+**Goal**
+
+Maintain one reliable source of truth across the company.
+
+---
+
+## Capital Efficiency
+
+MN Global prioritizes opportunities that are:
+
+- High Margin
+- Technology Driven
+- Easy to Manage
+- Easy to Ship
+- Low Overhead
+
+**Goal**
+
+Maximize return on invested capital.
+
+---
+
+# Asset Acquisition Rules
+
+Every acquisition must pass four tests.
+
+| Test | Question |
+|------|----------|
+| Size | Can it be handled efficiently? |
+| Logistics | Can it be shipped economically? |
+| Storage | Can it be tracked and stored? |
+| Verification | Can ownership and value be confirmed? |
+
+---
+
+## Preferred Assets
+
+- Enterprise Servers
+- Networking Equipment
+- Computer Hardware
+- Specialized Technology Equipment
+
+### Avoid
+
+- Bulky Equipment
+- Scrap
+- Unknown Condition Assets
+- Low Margin Products
+
+---
+
+# Weekly Operating System
+
+| Day | Primary Focus |
+|-----|---------------|
+| Monday | Research Markets |
+| Tuesday | Review Auctions & Analyze Deals |
+| Wednesday | Process & Test Assets |
+| Thursday | Execute Sales & Buyer Outreach |
+| Friday | Ship Orders & Review Treasury |
+| Saturday | Operations Review & Planning |
+
+---
+
+# AI Executive System
+
+Artificial Intelligence supports every major business function.
+
+| AI Role | Responsibility |
+|---------|----------------|
+| Strategic Advisor | Decision making, opportunity analysis, risk evaluation |
+| Operations Manager | Workflow management, automation, performance tracking |
+| Corporate Administration | Documentation, compliance, organization |
+| Proposal Management | Government contracts, bids, proposal support |
+
+### Executive Question
+
+> **Does this improve cash flow, control, or enterprise value?**
+
+---
+
+# Technology Stack
+
+| Category | Platform | Purpose |
+|-----------|----------|---------|
+| Intelligence | ChatGPT, Claude | Strategy, planning, analysis |
+| Research | Perplexity AI | Market intelligence |
+| Design | Canva, Microsoft Designer | Presentations & communication |
+| Development | GitHub Copilot, Google Colab | Software & automation |
+| Automation | Zapier | System integration |
+| Data Management | Coefficient | Reporting & operational analytics |
+
+---
+
+# Capital Allocation Framework
+
+## Golden Dividend Portfolio
+
+### Five-Year Investment Plan
+
+| Asset | Allocation | Purpose |
+|-------|-----------:|---------|
+| MCD | 70% | Core Dividend Income Anchor |
+| SCHD | 30% | Dividend Growth Foundation |
+
+### Monthly Investment
+
+| Fund | Allocation | Monthly | Five-Year Total |
+|------|-----------:|--------:|----------------:|
+| MCD | 70% | $42 | $2,520 |
+| SCHD | 30% | $18 | $1,080 |
+| **Total** | **100%** | **$60** | **$3,600** |
+
+---
+
+## Five-Year Snowball
+
+After five years:
+
+- Shares in two quality assets
+- Automatic dividend reinvestment
+- A consistent investing habit
+- A compounding income engine
+
+> **Estimated Portfolio Value:** ~$4,000–$5,000+
+
+*Market returns are never guaranteed.*
+
+---
+
+## Five-Year Rule
+
+| Year | Objective |
+|------|-----------|
+| 1 | Build the Habit |
+| 2 | Accumulate Shares |
+| 3 | Grow Dividend Income |
+| 4 | Accelerate Compounding |
+| 5 | Increase Contributions |
+
+---
+
+## Simple Formula
+
+```text
+$60/month
+      ↓
+$3,600 Invested
+      ↓
+Dividends Reinvested
+      ↓
+More Shares
+      ↓
+Greater Future Income
+```
+
+> **Automate → Hold → Repeat**
+
+---
+
+# MN Global Capital Flywheel
+
+```text
+Acquire Opportunities
+        ↓
+Generate Cash Flow
+        ↓
+Increase Treasury
+        ↓
+Acquire Productive Assets
+        ↓
+Expand Investment Portfolio
+        ↓
+Increase Enterprise Value
+        ↓
+Repeat
+```
+
+---
+
+# Long-Term Objective
+
+MN Global Investment Holdings exists to transform:
+
+```text
+Inefficiency
+      ↓
+Opportunity
+      ↓
+Cash Flow
+      ↓
+Long-Term Assets
+```
+
+The company is built around four core capabilities:
+
+- Revenue Generation
+- Asset Acquisition
+- Capital Allocation
+- Automation
+
+---
+
+# Future Expansion
+
+MN Global plans to expand into four strategic areas.
+
+## Enterprise Solutions
+
+Technology contracts, procurement, consulting, and infrastructure services.
+
+---
+
+## Asset Recovery
+
+Technology liquidation, refurbishment, and resale.
+
+---
+
+## Capital Management
+
+Treasury operations, investment management, and strategic capital allocation.
+
+---
+
+## Axiom Technology
+
+Internal software, workflow automation, and artificial intelligence systems.
+
+---
+
+# Guiding Philosophy
+
+> Transform inefficiency into opportunity.  
+> Transform opportunity into cash flow.  
+> Transform cash flow into lasting assets.
+
+---
+
+# Core Formula
+
+```text
+Opportunity
+      +
+Execution
+      +
+Automation
+      +
+Capital Allocation
+      =
+Long-Term Enterprise Value
+```
+
+---
+
+## License
+
+**© MN Global Investment Holdings LLC. All Rights Reserved.**
