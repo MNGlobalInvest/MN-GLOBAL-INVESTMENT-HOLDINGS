@@ -4,456 +4,126 @@
 
 ### Corporate Operating Framework
 
+![Founded](https://img.shields.io/badge/Founded-2013-0A66C2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Structure](https://img.shields.io/badge/Structure-Private%20Holding%20Company-24292F?style=for-the-badge)
+![Operations](https://img.shields.io/badge/Operations-100%25%20Remote-0366D6?style=for-the-badge)
+![Industry](https://img.shields.io/badge/Industry-Technology%20%26%20Investments-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-AI%20Enabled-purple?style=for-the-badge)
+![Capital](https://img.shields.io/badge/Capital-Strategic%20Allocation-success?style=for-the-badge)
+![Strategy](https://img.shields.io/badge/Strategy-Long--Term%20Ownership-blue?style=for-the-badge)
+
 </div>
 
 ---
 
-## Company Overview
+## I. Corporate Foundation
 
-| Category | Details |
-|---|---|
-| **Legal Entity** | MN Global Investment Holdings LLC |
-| **Founded** | 2013 |
-| **Headquarters** | Memphis, Tennessee |
-| **Operating Model** | 100% Remote |
-| **Business Structure** | Private Holding Company |
+**Entity Details**
+*   **Legal Entity:** MN Global Investment Holdings LLC
+*   **Founded:** 2013
+*   **Headquarters:** Memphis, Tennessee
+*   **Operating Model:** 100% Remote, Private Holding Company
 
----
-
-## Company Purpose
-
-MN Global Investment Holdings is a technology-driven holding company focused on acquiring opportunities, creating cash flow, and building long-term wealth through disciplined operations and strategic capital allocation.
-
-The company operates by combining:
-*   Business ownership
-*   Asset acquisition
-*   Technology automation
-*   Investment management
-
-**The objective is simple:** Turn opportunities into cash flow, and cash flow into long-term assets.
+**Core Mandate**
+MN Global Investment Holdings is a technology-driven holding company built on four capabilities: Revenue Generation, Asset Acquisition, Capital Allocation, and Automation. The mission is to operate a self-reinforcing, highly automated platform that transforms market inefficiencies into opportunities, opportunities into recurring cash flow, and cash flow into lasting enterprise value.
 
 ---
 
-## Mission & Vision
+## II. Strategic Operating Framework
 
-**Mission:** To build a self-reinforcing capital platform that increases financial strength through:
-*   Efficient operations
-*   Strategic acquisitions
-*   Automation
-*   Intelligent investing
+### The Prime Directive
+Every decision must improve at least one of three metrics. If an activity fails these tests, it is eliminated:
+1.  **Cash Flow:** Creates additional revenue or income.
+2.  **Control:** Improves ownership, systems, data, or decision-making ability.
+3.  **Enterprise Value:** Increases the long-term worth of the company.
 
-**Vision:** To become a highly automated holding company that transforms operational efficiency into lasting enterprise value.
+### Growth Principles
+*   **Vertical Integration:** Controlling critical touchpoints (suppliers, customers, data, operations, assets) to increase margins and operational independence.
+*   **Horizontal Expansion:** Expanding value across existing relationships by offering additional equipment, services, upgrades, and support agreements.
+*   **Capital Efficiency:** Prioritizing assets and business lines that are high-margin, technology-driven, easily managed/shipped, and require low overhead.
 
----
-
-## Operating Rule
-
-Every decision must improve at least one of these:
-1.  **Cash Flow** — Creates more revenue or income.
-2.  **Control** — Improves ownership, systems, or decision-making ability.
-3.  **Enterprise Value** — Makes the company more valuable.
-
-*If an activity does not improve one of these areas, it should be removed.*
+### Weekly Operational Cadence
+*   **Monday–Tuesday (Discovery):** Research markets, review auctions, analyze deals, and identify opportunities.
+*   **Wednesday (Processing):** Test equipment, document inventory, and prepare products.
+*   **Thursday (Execution):** List products, contact buyers, and optimize pricing.
+*   **Friday–Saturday (Resolution):** Ship orders, review profits, and update treasury.
 
 ---
 
-## Business Model
+## III. Business Divisions
 
-MN Global operates through three core divisions.
+The company executes its strategy through three integrated divisions:
 
 ### 1. Enterprise Revenue Division
-*   **Purpose:** Generate predictable business income through technology services and institutional relationships.
-*   **Focus Areas:** Government technology contracts, Commercial technology supply, IT equipment procurement, Infrastructure solutions, Technology support services.
-*   **Goal:** Create recurring revenue and long-term customer relationships.
+*   **Purpose:** Generate predictable business income through B2B and institutional relationships.
+*   **Focus Areas:** Government technology contracts, commercial technology supply, IT equipment procurement, infrastructure solutions, and technology support.
 
 ### 2. Asset Conversion Division
-*   **Purpose:** Acquire undervalued technology assets, improve their value, and resell them.
-*   **Asset Sources:** Government surplus, Corporate technology refreshes, Liquidations, Auctions, Asset recovery programs.
-*   **Process:** Find Opportunity → Acquire Asset → Test & Improve → Document → Sell → Reinvest Profit.
-*   **Goal:** Convert inefficiencies in the market into profitable opportunities.
+*   **Purpose:** Convert market inefficiencies into profit by acquiring and rehabilitating undervalued technology assets (from government surplus, corporate refreshes, liquidations, and auctions).
+*   **Acquisition Filters (The 4 Tests):** 
+    *   *Size:* Can it be handled efficiently? (Avoids bulky equipment)
+    *   *Logistics:* Can it be shipped economically?
+    *   *Storage:* Can it be tracked and stored?
+    *   *Verification:* Can ownership and value be confirmed? (Avoids unknown-condition or scrap assets)
+*   **Target Assets:** Enterprise servers, networking equipment, specialized computer hardware.
 
 ### 3. Capital Management Division
-*   **Purpose:** Protect and grow company capital.
-*   **Responsibilities:** Treasury management, Investment allocation, Liquidity management, Risk control, Long-term asset accumulation.
-*   **Philosophy:** Business creates capital. Capital buys productive assets. Productive assets create future wealth.
+*   **Purpose:** Protect and grow company capital through treasury management, liquidity control, risk management, and long-term asset accumulation.
+*   **Philosophy:** Business operations create capital. Capital buys productive assets. Productive assets create future wealth.
 
 ---
 
-## Strategic Principles
+## IV. Technology & AI Infrastructure
 
-*   **Vertical Integration:** Control the important parts of the business (Suppliers, Customers, Data, Operations, Assets). **Goal:** Increase margins and reduce dependency.
-*   **Horizontal Expansion:** Expand value from existing relationships (More equipment, Additional services, Technology upgrades, Support agreements). **Goal:** Increase revenue without increasing complexity.
-*   **Operational Intelligence:** *Axiom* serves as the company's operating intelligence system managing financial information, inventory, opportunities, workflow, business analytics, and automation. **Goal:** Create one source of truth.
-*   **Capital Efficiency:** MN Global prioritizes businesses and assets that are high margin, technology-driven, easy to manage, easy to ship, and low overhead. **Goal:** Maximize return on capital.
+MN Global utilizes a centralized operating system, **Axiom**, as its single source of truth for financials, inventory, workflow, and analytics, heavily supported by AI and automation.
 
----
+### AI Executive System
+*   **Strategic Advisor:** Evaluates risk and analyzes opportunities against the Prime Directive.
+*   **Operations Manager:** Manages workflows, tracks performance, and automates daily tasks.
+*   **Corporate Administration:** Organizes compliance, records, and documentation.
+*   **Proposal Management:** Prepares government bids and supports contract execution.
 
-## Asset Acquisition Rules
-
-Before acquiring an asset, it must pass four tests:
-1.  **Size** — Can it be handled efficiently?
-2.  **Logistics** — Can it be shipped economically?
-3.  **Storage** — Can it be tracked and stored?
-4.  **Verification** — Can ownership and value be confirmed?
-
-**Preferred Assets:** Enterprise servers, Networking equipment, Computer hardware, Specialized technology equipment.
-**Avoid:** Bulky equipment, Scrap, Unknown-condition assets, Low-margin products.
-
----
-
-## Weekly Operating System
-
-*   **Monday–Tuesday: Find Opportunities** (Research markets, Review auctions, Analyze deals, Identify opportunities)
-*   **Wednesday: Process Assets** (Test equipment, Document inventory, Prepare products)
-*   **Thursday: Execute Sales** (List products, Contact buyers, Optimize pricing)
-*   **Friday–Saturday: Complete Operations** (Ship orders, Review profits, Update treasury)
-
----
-
-## AI Executive System
-
-Artificial intelligence supports every major business function:
-*   **Strategic Advisor:** Focuses on decision-making, opportunity analysis, and risk evaluation. (Question: "Does this improve cash flow, control, or enterprise value?")
-*   **Operations Manager:** Focuses on workflow management, automation, and performance tracking.
-*   **Corporate Administration:** Focuses on documentation, records, and compliance organization.
-*   **Proposal Management:** Focuses on government opportunities, bid preparation, and contract support.
-
----
-
-## Technology Infrastructure
-
-MN Global uses technology as a competitive advantage.
-
-| Category | Platforms | Purpose |
+### Infrastructure Stack
+| Capability | Platforms | Function |
 |---|---|---|
-| **Intelligence** | ChatGPT, Claude | Strategy, analysis, planning, and decision support. |
-| **Research** | Perplexity AI | Market research, opportunities, and analysis. |
-| **Design** | Canva, Microsoft Designer | Presentations, proposals, and communication. |
-| **Development** | GitHub Copilot, Google Colab | Software, automation, and data analysis. |
-| **Automation** | Zapier | Connect systems and remove manual work. |
-| **Data Management** | Coefficient | Centralize reporting and operational data. |
+| **Intelligence** | ChatGPT, Claude | Strategy, analysis, planning, decision support |
+| **Research** | Perplexity AI | Market research and opportunity identification |
+| **Development** | GitHub Copilot, Google Colab | Software, data analysis, custom scripting |
+| **Automation** | Zapier | System integration and manual-task removal |
+| **Data Ops** | Coefficient | Centralized reporting and operational visibility |
+| **Design** | Canva, MS Designer | Proposals, presentations, and visual communication |
 
 ---
 
-## Capital Allocation Framework 
+## V. Treasury & Capital Allocation
 
-Business profits are allocated according to disciplined, long-term investment strategies.
+Capital allocation follows a self-reinforcing cycle—**The Capital Flywheel**:
+*Acquire Opportunities → Generate Cash Flow → Increase Treasury → Acquire Productive Assets → Expand Investment Portfolio → Increase Enterprise Value → Repeat.*
 
-### ₿ The Plan: Bitcoin Treasury Strategy
-**A simple bitcoin accumulation strategy.**
+### Strategy 1: The Bitcoin Treasury
+A strict Dollar-Cost Averaging (DCA) strategy prioritizing digital scarcity and long-term value preservation.
+*   **Horizon:** 5 years minimum (no market timing).
+*   **The Loop:** Buy on schedule → Hold → Compound → Repeat.
+*   **Rules of Execution:** Purchases are scheduled and emotionless. Holdings are never judged on daily volatility, and the plan is reviewed only annually. Contribution amounts are increased only when income allows, never by cutting essentials.
 
-*   **The Strategy:** Bitcoin DCA (Dollar-Cost Averaging)
-*   **The Horizon:** 5 years — no shortcuts, no timing the market
-*   **Execution:** Regular monthly inputs generating a steadily accumulating holding.
-
-**The Loop**
-Buy → Hold → Compound → Repeat
-
-**The Advantage**
-Discipline + Time. This is not a game of quick wins. It is a game of consistency — regular buys, held without reaction to noise, for years, not weeks.
-
-**The Rules**
-1.  **Buy on schedule.** Not on emotion, not on headlines.
-2.  **Hold what you buy.** The point is time in the market.
-3.  **Ignore the price on any single day.** Judge only in years.
-4.  **Increase the monthly amount only when income allows** — never by cutting essentials.
-5.  **Review the plan once a year.** Don't touch it in between.
-
-*Stay the course.*
+### Strategy 2: The Golden Dividend Portfolio
+A 5-Year rolling plan for traditional equities, utilizing business profits to build compounding dividend income.
+*   **Allocation:** 70% Core Dividend Anchor (MCD) / 30% Dividend Growth Foundation (SCHD).
+*   **The 5-Year Rule:** 
+    *   *Year 1:* Build the investment habit.
+    *   *Year 2:* Accumulate base shares.
+    *   *Year 3:* Dividend reinvestment scales up.
+    *   *Year 4:* Compounding gains significant momentum.
+    *   *Year 5:* Increase base contributions.
+*   **Formula:** Consistent automated contributions + Reinvested Dividends = Exponential Share Growth.
 
 ---
 
-### Golden Dividend Portfolio — 5-Year Rolling Plan
-
-*   **Investment:** Regular monthly contributions
-*   **Split:** 70% MCD + 30% SCHD
-*   **Timeframe:** 5 years
-*   **Starting Amount:** Baseline (new contributions only)
-
-#### 5-Year Snowball Goal
-After 5 years:
-*   You own shares in two quality assets.
-*   Dividends are being reinvested.
-*   Your monthly habit is established.
-*   Your compounding engine is running.
-*(Market returns are not guaranteed.)*
-
-#### The 5-Year Rule
-*   **Year 1:** Build the habit
-*   **Year 2:** Accumulate shares
-*   **Year 3:** Dividends start adding up
-*   **Year 4:** Compounding gains momentum
-*   **Year 5:** Increase contributions if possible
-
-**Simple Formula:**
-Consistent Contributions → Capital Invested → Dividend Reinvestment → More Shares → Bigger Future Income.
-*Automate. Hold. Repeat every 5 years.*
-
----
-
-## MN Global Capital Flywheel
-
-Acquire Opportunities → Generate Cash Flow → Increase Treasury → Acquire Productive Assets → Expand Investment Portfolio → Increase Enterprise Value → Repeat
-
----
-
-## Long-Term Objective
-
-MN Global Investment Holdings exists to transform inefficiency into opportunity, opportunity into cash flow, and cash flow into lasting assets.
-
-The company is built on four capabilities:
-1.  Revenue Generation
-2.  Asset Acquisition
-3.  Capital Allocation
-4.  Automation
-
-**The mission is simple:** Build a lean, automated holding company that compounds value over time.
-
----
-
-## Future Expansion
-
-MN Global may expand into four strategic areas:
-*   **Enterprise Solutions** — Technology contracts, procurement, and consulting.
-*   **Asset Recovery** — Technology liquidation, refurbishment, and resale.
-*   **Capital Management** — Treasury, investments, and asset allocation.
-*   **Axiom Technology** — Internal software, automation, and artificial intelligence systems.
-
----
-
-<div align="center">
-
-**MN Global Investment Holdings LLC**
-
-*A technology-enabled capital platform designed for disciplined growth, recurring cash flow, and long-term enterprise value.*
-
-</div><div align="center">
-
-# MN Global Investment Holdings LLC
-
-### Corporate Operating Framework
-
-</div>
-
----
-
-## Company Overview
-
-| Category | Details |
-|---|---|
-| **Legal Entity** | MN Global Investment Holdings LLC |
-| **Founded** | 2013 |
-| **Headquarters** | Memphis, Tennessee |
-| **Operating Model** | 100% Remote |
-| **Business Structure** | Private Holding Company |
-
----
-
-## Company Purpose
-
-MN Global Investment Holdings is a technology-driven holding company focused on acquiring opportunities, creating cash flow, and building long-term wealth through disciplined operations and strategic capital allocation.
-
-The company operates by combining:
-*   Business ownership
-*   Asset acquisition
-*   Technology automation
-*   Investment management
-
-**The objective is simple:** Turn opportunities into cash flow, and cash flow into long-term assets.
-
----
-
-## Mission & Vision
-
-**Mission:** To build a self-reinforcing capital platform that increases financial strength through:
-*   Efficient operations
-*   Strategic acquisitions
-*   Automation
-*   Intelligent investing
-
-**Vision:** To become a highly automated holding company that transforms operational efficiency into lasting enterprise value.
-
----
-
-## Operating Rule
-
-Every decision must improve at least one of these:
-1.  **Cash Flow** — Creates more revenue or income.
-2.  **Control** — Improves ownership, systems, or decision-making ability.
-3.  **Enterprise Value** — Makes the company more valuable.
-
-*If an activity does not improve one of these areas, it should be removed.*
-
----
-
-## Business Model
-
-MN Global operates through three core divisions.
-
-### 1. Enterprise Revenue Division
-*   **Purpose:** Generate predictable business income through technology services and institutional relationships.
-*   **Focus Areas:** Government technology contracts, Commercial technology supply, IT equipment procurement, Infrastructure solutions, Technology support services.
-*   **Goal:** Create recurring revenue and long-term customer relationships.
-
-### 2. Asset Conversion Division
-*   **Purpose:** Acquire undervalued technology assets, improve their value, and resell them.
-*   **Asset Sources:** Government surplus, Corporate technology refreshes, Liquidations, Auctions, Asset recovery programs.
-*   **Process:** Find Opportunity → Acquire Asset → Test & Improve → Document → Sell → Reinvest Profit.
-*   **Goal:** Convert inefficiencies in the market into profitable opportunities.
-
-### 3. Capital Management Division
-*   **Purpose:** Protect and grow company capital.
-*   **Responsibilities:** Treasury management, Investment allocation, Liquidity management, Risk control, Long-term asset accumulation.
-*   **Philosophy:** Business creates capital. Capital buys productive assets. Productive assets create future wealth.
-
----
-
-## Strategic Principles
-
-*   **Vertical Integration:** Control the important parts of the business (Suppliers, Customers, Data, Operations, Assets). **Goal:** Increase margins and reduce dependency.
-*   **Horizontal Expansion:** Expand value from existing relationships (More equipment, Additional services, Technology upgrades, Support agreements). **Goal:** Increase revenue without increasing complexity.
-*   **Operational Intelligence:** *Axiom* serves as the company's operating intelligence system managing financial information, inventory, opportunities, workflow, business analytics, and automation. **Goal:** Create one source of truth.
-*   **Capital Efficiency:** MN Global prioritizes businesses and assets that are high margin, technology-driven, easy to manage, easy to ship, and low overhead. **Goal:** Maximize return on capital.
-
----
-
-## Asset Acquisition Rules
-
-Before acquiring an asset, it must pass four tests:
-1.  **Size** — Can it be handled efficiently?
-2.  **Logistics** — Can it be shipped economically?
-3.  **Storage** — Can it be tracked and stored?
-4.  **Verification** — Can ownership and value be confirmed?
-
-**Preferred Assets:** Enterprise servers, Networking equipment, Computer hardware, Specialized technology equipment.
-**Avoid:** Bulky equipment, Scrap, Unknown-condition assets, Low-margin products.
-
----
-
-## Weekly Operating System
-
-*   **Monday–Tuesday: Find Opportunities** (Research markets, Review auctions, Analyze deals, Identify opportunities)
-*   **Wednesday: Process Assets** (Test equipment, Document inventory, Prepare products)
-*   **Thursday: Execute Sales** (List products, Contact buyers, Optimize pricing)
-*   **Friday–Saturday: Complete Operations** (Ship orders, Review profits, Update treasury)
-
----
-
-## AI Executive System
-
-Artificial intelligence supports every major business function:
-*   **Strategic Advisor:** Focuses on decision-making, opportunity analysis, and risk evaluation. (Question: "Does this improve cash flow, control, or enterprise value?")
-*   **Operations Manager:** Focuses on workflow management, automation, and performance tracking.
-*   **Corporate Administration:** Focuses on documentation, records, and compliance organization.
-*   **Proposal Management:** Focuses on government opportunities, bid preparation, and contract support.
-
----
-
-## Technology Infrastructure
-
-MN Global uses technology as a competitive advantage.
-
-| Category | Platforms | Purpose |
-|---|---|---|
-| **Intelligence** | ChatGPT, Claude | Strategy, analysis, planning, and decision support. |
-| **Research** | Perplexity AI | Market research, opportunities, and analysis. |
-| **Design** | Canva, Microsoft Designer | Presentations, proposals, and communication. |
-| **Development** | GitHub Copilot, Google Colab | Software, automation, and data analysis. |
-| **Automation** | Zapier | Connect systems and remove manual work. |
-| **Data Management** | Coefficient | Centralize reporting and operational data. |
-
----
-
-## Capital Allocation Framework 
-
-Business profits are allocated according to disciplined, long-term investment strategies.
-
-### ₿ The Plan: Bitcoin Treasury Strategy
-**A simple bitcoin accumulation strategy.**
-
-*   **The Strategy:** Bitcoin DCA (Dollar-Cost Averaging)
-*   **The Horizon:** 5 years — no shortcuts, no timing the market
-*   **Execution:** Regular monthly inputs generating a steadily accumulating holding.
-
-**The Loop**
-Buy → Hold → Compound → Repeat
-
-**The Advantage**
-Discipline + Time. This is not a game of quick wins. It is a game of consistency — regular buys, held without reaction to noise, for years, not weeks.
-
-**The Rules**
-1.  **Buy on schedule.** Not on emotion, not on headlines.
-2.  **Hold what you buy.** The point is time in the market.
-3.  **Ignore the price on any single day.** Judge only in years.
-4.  **Increase the monthly amount only when income allows** — never by cutting essentials.
-5.  **Review the plan once a year.** Don't touch it in between.
-
-*Stay the course.*
-
----
-
-### Golden Dividend Portfolio — 5-Year Rolling Plan
-
-*   **Investment:** Regular monthly contributions
-*   **Split:** 70% MCD + 30% SCHD
-*   **Timeframe:** 5 years
-*   **Starting Amount:** Baseline (new contributions only)
-
-#### 5-Year Snowball Goal
-After 5 years:
-*   You own shares in two quality assets.
-*   Dividends are being reinvested.
-*   Your monthly habit is established.
-*   Your compounding engine is running.
-*(Market returns are not guaranteed.)*
-
-#### The 5-Year Rule
-*   **Year 1:** Build the habit
-*   **Year 2:** Accumulate shares
-*   **Year 3:** Dividends start adding up
-*   **Year 4:** Compounding gains momentum
-*   **Year 5:** Increase contributions if possible
-
-**Simple Formula:**
-Consistent Contributions → Capital Invested → Dividend Reinvestment → More Shares → Bigger Future Income.
-*Automate. Hold. Repeat every 5 years.*
-
----
-
-## MN Global Capital Flywheel
-
-Acquire Opportunities → Generate Cash Flow → Increase Treasury → Acquire Productive Assets → Expand Investment Portfolio → Increase Enterprise Value → Repeat
-
----
-
-## Long-Term Objective
-
-MN Global Investment Holdings exists to transform inefficiency into opportunity, opportunity into cash flow, and cash flow into lasting assets.
-
-The company is built on four capabilities:
-1.  Revenue Generation
-2.  Asset Acquisition
-3.  Capital Allocation
-4.  Automation
-
-**The mission is simple:** Build a lean, automated holding company that compounds value over time.
-
----
-
-## Future Expansion
-
-MN Global may expand into four strategic areas:
-*   **Enterprise Solutions** — Technology contracts, procurement, and consulting.
-*   **Asset Recovery** — Technology liquidation, refurbishment, and resale.
-*   **Capital Management** — Treasury, investments, and asset allocation.
-*   **Axiom Technology** — Internal software, automation, and artificial intelligence systems.
-
----
-
-<div align="center">
-
-**MN Global Investment Holdings LLC**
-
-*A technology-enabled capital platform designed for disciplined growth, recurring cash flow, and long-term enterprise value.*
-
-</div>
+## VI. Future Expansion
+
+To sustain compounding growth, the platform is structured to scale into four advanced operational areas:
+1.  **Enterprise Solutions:** Advanced technology contracts, large-scale procurement, and consulting.
+2.  **Asset Recovery:** Commercial-scale liquidation, refurbishment, and B2B resale operations.
+3.  **Capital Management:** Institutional-grade treasury, investments, and advanced asset allocation.
+4.  **Axiom Technology:** Commercializing internal software, automation workflows, and AI systems.
