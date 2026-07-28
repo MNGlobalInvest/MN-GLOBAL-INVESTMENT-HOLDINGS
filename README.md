@@ -1,139 +1,654 @@
-<div align="center">
-
 # MN Global Investment Holdings LLC
 
-### Corporate Operating Framework
+## Technology-Enabled Holding Company | Solo Operator Business System
 
-![Founded](https://img.shields.io/badge/Founded-2013-0A66C2?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Structure](https://img.shields.io/badge/Structure-Private%20Holding%20Company-24292F?style=for-the-badge)
-![Operations](https://img.shields.io/badge/Operations-100%25%20Remote-0366D6?style=for-the-badge)
-![Industry](https://img.shields.io/badge/Industry-Technology%20%26%20Investments-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-AI%20Enabled-purple?style=for-the-badge)
-![Capital](https://img.shields.io/badge/Capital-Strategic%20Allocation-success?style=for-the-badge)
-![Strategy](https://img.shields.io/badge/Strategy-Long--Term%20Ownership-blue?style=for-the-badge)
-
-</div>
+![Company](https://img.shields.io/badge/Company-MN%20Global%20Investment%20Holdings%20LLC-blue)
+![Founded](https://img.shields.io/badge/Founded-2013-green)
+![Model](https://img.shields.io/badge/Operating%20Model-Remote%20%7C%20AI--Enabled-purple)
+![Focus](https://img.shields.io/badge/Focus-Technology%20%7C%20Automation%20%7C%20Capital-orange)
 
 ---
 
-## I. Corporate Foundation
+# Company Overview
 
-**Entity Details**
-*   **Legal Entity:** MN Global Investment Holdings LLC
-*   **Founded:** 2013
-*   **Headquarters:** Memphis, Tennessee
-*   **Operating Model:** 100% Remote, Private Holding Company
-
-**Core Mandate & Purpose**
-MN Global Investment Holdings is a technology-driven holding company focused on acquiring opportunities, creating cash flow, and building long-term wealth through disciplined operations and strategic capital allocation. The objective is simple: **Turn opportunities into cash flow, and cash flow into long-term assets.**
-
-**Mission & Vision**
-*   **Mission:** To build a self-reinforcing capital platform that increases financial strength through efficient operations, strategic acquisitions, automation, and intelligent investing.
-*   **Vision:** To become a highly automated holding company that transforms operational efficiency into lasting enterprise value.
+| Category | Information |
+|---|---|
+| Company Name | MN Global Investment Holdings LLC |
+| Founded | 2013 |
+| Founder & CEO | Terry Williams |
+| Headquarters | Memphis, Tennessee |
+| Operating Model | Remote-first, technology-enabled solo operator business |
+| Business Structure | Private Holding Company |
 
 ---
 
-## II. Strategic Operating Framework
+# Company Mission
 
-### The Prime Directive
-Every decision must improve at least one of these three areas. If an activity does not improve one of these, it is removed:
-1.  **Cash Flow:** Creates more revenue or income.
-2.  **Control:** Improves ownership, systems, or decision-making ability.
-3.  **Enterprise Value:** Makes the company more valuable.
-
-### Strategic Principles
-*   **Vertical Integration:** Control the important parts of the business (Suppliers, Customers, Data, Operations, Assets) to increase margins and reduce dependency.
-*   **Horizontal Expansion:** Expand value from existing relationships (e.g., more equipment, additional services, technology upgrades, support agreements) to increase revenue without increasing complexity.
-*   **Capital Efficiency:** Prioritize businesses and assets that are high-margin, technology-driven, easy to manage, easy to ship, and have low overhead to maximize return on capital.
-
-### Weekly Operating Cadence
-*   **Monday–Tuesday (Discovery):** Research markets, review auctions, analyze deals, identify opportunities.
-*   **Wednesday (Processing):** Test equipment, document inventory, prepare products.
-*   **Thursday (Execution):** List products, contact buyers, optimize pricing.
-*   **Friday–Saturday (Resolution):** Ship orders, review profits, update treasury.
+> Build a highly efficient, technology-enabled holding company that transforms opportunities into cash flow and cash flow into lasting assets.
 
 ---
 
-## III. Business Divisions
+# Company Vision
 
-The company operates through three core divisions designed to create and manage wealth:
-
-### 1. Enterprise Revenue Division
-*   **Purpose:** Generate predictable business income through technology services and institutional relationships.
-*   **Focus Areas:** Government technology contracts, commercial technology supply, IT equipment procurement, infrastructure solutions, technology support services.
-*   **Goal:** Create recurring revenue and long-term customer relationships.
-
-### 2. Asset Conversion Division
-*   **Purpose:** Acquire undervalued technology assets, improve their value, and resell them.
-*   **Asset Sources:** Government surplus, corporate technology refreshes, liquidations, auctions, asset recovery programs.
-*   **Acquisition Rules (The 4 Tests):** Assets must be efficient to handle (*Size*), economical to ship (*Logistics*), easy to track/store (*Storage*), and clearly verifiable in ownership/value (*Verification*). *Avoids scrap, bulky items, and unknown-condition goods.*
-*   **Process:** Find Opportunity → Acquire Asset → Test & Improve → Document → Sell → Reinvest Profit.
-
-### 3. Capital Management Division
-*   **Purpose:** Protect and grow company capital.
-*   **Responsibilities:** Treasury management, investment allocation, liquidity management, risk control, long-term asset accumulation.
-*   **Philosophy:** Business creates capital. Capital buys productive assets. Productive assets create future wealth.
+> Become a disciplined capital platform combining technology, automation, and strategic investing to create sustainable enterprise value over time.
 
 ---
 
-## IV. Technology & AI Infrastructure
+# Company Description
 
-MN Global uses technology as a primary competitive advantage, anchored by **Axiom**, the company's operating intelligence system that manages financial data, inventory, workflow, and automation to create one source of truth.
+MN Global Investment Holdings LLC is a technology-driven holding company focused on:
 
-### AI Executive System
-Artificial intelligence supports every major business function:
-*   **Strategic Advisor:** Focuses on decision-making, opportunity analysis, and risk evaluation. *(Question: "Does this improve cash flow, control, or enterprise value?")*
-*   **Operations Manager:** Focuses on workflow management, automation, and performance tracking.
-*   **Corporate Administration:** Focuses on documentation, records, and compliance organization.
-*   **Proposal Management:** Focuses on government opportunities, bid preparation, and contract support.
+- Building cash-flow-producing operations
+- Acquiring valuable assets
+- Creating long-term enterprise value
+- Using technology and artificial intelligence as competitive advantages
 
-### Infrastructure Stack
-| Category | Platforms | Purpose |
-|---|---|---|
-| **Intelligence** | ChatGPT, Claude | Strategy, analysis, planning, and decision support. |
-| **Research** | Perplexity AI | Market research, opportunities, and analysis. |
-| **Design** | Canva, Microsoft Designer | Presentations, proposals, and communication. |
-| **Development** | GitHub Copilot, Google Colab | Software, automation, and data analysis. |
-| **Automation** | Zapier | Connect systems and remove manual work. |
-| **Data Management** | Coefficient | Centralize reporting and operational data. |
+The company operates through a disciplined framework:
 
----
+```
+Identify Opportunities
+        ↓
+Create Value
+        ↓
+Generate Cash Flow
+        ↓
+Acquire Assets
+        ↓
+Build Wealth
+```
 
-## V. Treasury & Capital Allocation
+MN Global combines:
 
-Profits are allocated according to disciplined, long-term investment strategies to fuel the **Capital Flywheel**: 
-*Acquire Opportunities → Generate Cash Flow → Increase Treasury → Acquire Productive Assets → Expand Investment Portfolio → Increase Enterprise Value → Repeat.*
+- Technology intelligence
+- Business automation
+- Strategic research
+- Capital allocation
+- Operational systems
 
-### The Bitcoin Treasury Strategy
-A dedicated strategy recognizing Bitcoin as a strategic digital asset.
-*   **Strategy:** Strict Dollar-Cost Averaging (DCA).
-*   **Horizon:** 5 years — no shortcuts, no timing the market.
-*   **Rules:** Buy on schedule (not emotion), hold what is bought, ignore daily price fluctuations, and increase contributions only when income allows. 
-
-### Golden Dividend Portfolio — 5-Year Rolling Plan
-*   **Allocation:** 70% Core dividend income anchor (MCD) / 30% Dividend growth foundation (SCHD).
-*   **Investment:** Regular, automated monthly contributions.
-*   **Timeframe:** 5 years (Starting from a zero baseline for new contributions).
-
-**The 5-Year Rule:**
-*   **Year 1:** Build the habit.
-*   **Year 2:** Accumulate shares.
-*   **Year 3:** Dividends start adding up.
-*   **Year 4:** Compounding gains momentum.
-*   **Year 5:** Increase contributions if possible.
-
-**Simple Formula:**
-Consistent automated contributions → Capital invested → Dividends reinvested → More shares → Bigger future income. *(Automate. Hold. Repeat every 5 years.)*
+to create a lean and scalable business platform.
 
 ---
 
-## VI. Future Expansion & Long-Term Objective
+# Core Philosophy
 
-**Long-Term Objective:** Build a lean, automated holding company that transforms inefficiency into opportunity, opportunity into cash flow, and cash flow into lasting assets.
+## Business Creates Capital
 
-MN Global continues to develop its capabilities and may expand into four strategic areas:
-1.  **Enterprise Solutions:** Technology contracts, procurement, and consulting.
-2.  **Asset Recovery:** Technology liquidation, refurbishment, and resale.
-3.  **Capital Management:** Treasury, investments, and asset allocation.
-4.  **Axiom Technology:** Internal software, automation, and artificial intelligence systems.
+## Capital Acquires Productive Assets
+
+## Productive Assets Create Future Wealth
+
+Every decision must improve at least one of three areas:
+
+---
+
+## 1. Cash Flow
+
+Create revenue, reduce expenses, or improve profitability.
+
+---
+
+## 2. Control
+
+Increase:
+
+- Ownership
+- Systems
+- Operational capability
+- Strategic independence
+
+---
+
+## 3. Enterprise Value
+
+Build:
+
+- Assets
+- Relationships
+- Processes
+- Intellectual property
+
+that increase company value.
+
+---
+
+# Operating Model
+
+MN Global operates as a lean, technology-enabled organization.
+
+The company uses:
+
+- Artificial intelligence
+- Automation systems
+- Digital research tools
+- Data management
+- Strategic partnerships
+- Remote operations
+
+to maximize output while maintaining minimal overhead.
+
+The operating philosophy:
+
+> Build simple systems that produce repeatable results.
+
+---
+
+# Current Operating Division
+
+# MN Global Technology Intelligence Services
+
+## Division Purpose
+
+Generate predictable business revenue by helping organizations:
+
+- Improve technology decisions
+- Reduce inefficiencies
+- Implement practical automation solutions
+
+---
+
+# Service Positioning
+
+MN Global helps small businesses identify:
+
+- Technology cost savings
+- Operational inefficiencies
+- Automation opportunities
+- AI implementation opportunities
+- Better technology solutions
+
+---
+
+# What MN Global Provides
+
+Not traditional IT support.
+
+Services include:
+
+- Technology research
+- Business technology analysis
+- AI adoption guidance
+- Vendor research
+- Procurement recommendations
+- Operational improvement strategies
+
+---
+
+# Primary Service Offering
+
+# Technology Efficiency & AI Automation Assessment
+
+## Service Promise
+
+> Help businesses discover where technology can reduce costs, improve productivity, and create operational advantages.
+
+---
+
+# Assessment Process
+
+## Step 1 — Technology Review
+
+Analyze:
+
+- Existing software
+- Business tools
+- Technology expenses
+- Operational workflows
+
+---
+
+## Step 2 — Opportunity Analysis
+
+Identify:
+
+- Unnecessary expenses
+- Automation opportunities
+- Productivity improvements
+- Technology upgrades
+
+---
+
+## Step 3 — Strategic Recommendations
+
+Provide:
+
+- Improvement roadmap
+- Recommended tools
+- Implementation priorities
+- Business impact analysis
+
+---
+
+# Target Customers
+
+MN Global focuses on small and growing organizations that need better technology decisions without hiring expensive internal specialists.
+
+Primary markets:
+
+- Professional service companies
+- Accounting firms
+- Law offices
+- Contractors
+- Healthcare practices
+- Real estate companies
+- Local businesses
+- Organizations seeking operational efficiency
+
+---
+
+# Revenue Model
+
+## Technology Assessment Services
+
+| Service | Price | Description |
+|---|---:|---|
+| Starter Assessment | $250 | Technology review and recommendations |
+| Professional Assessment | $500 | Detailed technology analysis and automation strategy |
+| Technology Advisory | $250/month | Ongoing technology guidance and recommendations |
+
+---
+
+# Growth Strategy
+
+MN Global follows a simple operating system:
+
+```
+Find Problems
+      ↓
+Provide Solutions
+      ↓
+Generate Revenue
+      ↓
+Build Systems
+      ↓
+Allocate Capital
+```
+
+---
+
+# Customer Acquisition Strategy
+
+Relationship-based growth through:
+
+- Direct email outreach
+- LinkedIn networking
+- Business relationships
+- Strategic partnerships
+- Professional referrals
+- Government opportunity research
+
+---
+
+# Marketing Strategy
+
+MN Global builds authority through education.
+
+## Artificial Intelligence
+
+Helping businesses understand practical AI adoption.
+
+Topics:
+
+- AI tools
+- AI workflows
+- Business productivity
+
+---
+
+## Automation
+
+Helping organizations improve efficiency.
+
+Topics:
+
+- Workflow automation
+- Time savings
+- Process improvement
+
+---
+
+## Technology Strategy
+
+Helping businesses make better technology decisions.
+
+Topics:
+
+- Technology planning
+- Vendor selection
+- Cost reduction
+
+---
+
+## Business Optimization
+
+Identifying opportunities to:
+
+- Reduce waste
+- Improve operations
+- Increase productivity
+
+---
+
+# Technology Infrastructure
+
+MN Global uses technology as a competitive advantage.
+
+---
+
+# Artificial Intelligence Systems
+
+Purpose:
+
+- Business analysis
+- Research
+- Proposal development
+- Strategic planning
+
+---
+
+# Automation Systems
+
+Purpose:
+
+- Workflow management
+- Repetitive task reduction
+- Operational efficiency
+
+---
+
+# Data Management Systems
+
+Purpose:
+
+- Customer tracking
+- Opportunity management
+- Financial visibility
+
+---
+
+# AI Operating System
+
+Artificial intelligence functions as a digital operating team.
+
+---
+
+## AI Strategic Advisor
+
+Responsibilities:
+
+- Evaluate opportunities
+- Analyze risks
+- Support decision-making
+
+---
+
+## AI Research Analyst
+
+Responsibilities:
+
+- Market research
+- Customer research
+- Technology analysis
+
+---
+
+## AI Proposal Assistant
+
+Responsibilities:
+
+- Create proposals
+- Develop recommendations
+- Prepare client documents
+
+---
+
+## AI Operations Manager
+
+Responsibilities:
+
+- Track priorities
+- Improve workflows
+- Maintain execution discipline
+
+---
+
+# Asset Acquisition Strategy
+
+As revenue grows, MN Global expands from service income into asset ownership.
+
+Future acquisition categories:
+
+- Technology equipment
+- Digital assets
+- Business opportunities
+- Productive investments
+- Cash-flow-producing assets
+
+Acquisition philosophy:
+
+```
+Acquire Undervalued Opportunities
+              ↓
+Improve Value
+              ↓
+Generate Returns
+```
+
+---
+
+# Capital Management Strategy
+
+MN Global follows disciplined capital allocation.
+
+Priority order:
+
+## 1. Strengthen Business Operations
+
+Build reliable revenue.
+
+---
+
+## 2. Maintain Cash Reserves
+
+Protect operating stability.
+
+---
+
+## 3. Acquire Productive Assets
+
+Purchase assets that create future value.
+
+---
+
+## 4. Long-Term Investments
+
+Build wealth through disciplined investing.
+
+---
+
+# Strategic Investment Philosophy
+
+MN Global follows a long-term compounding approach:
+
+```
+Business Profits
+        ↓
+Capital
+        ↓
+Productive Assets
+        ↓
+Financial Strength
+        ↓
+Enterprise Value
+```
+
+---
+
+# Company Growth Roadmap
+
+# Phase 1 — Solo Cash Flow Engine
+
+Timeline:
+
+**0–12 months**
+
+Objective:
+
+Build consistent revenue.
+
+Target:
+
+**$500–$1,000/month**
+
+Focus:
+
+- Client acquisition
+- Service delivery
+- Process creation
+
+---
+
+# Phase 2 — Automated Service Company
+
+Timeline:
+
+**1–3 years**
+
+Objective:
+
+Increase recurring revenue.
+
+Focus:
+
+- Monthly clients
+- Automation
+- Strategic partnerships
+- Contractor support
+
+---
+
+# Phase 3 — Holding Company Expansion
+
+Timeline:
+
+**3+ years**
+
+Objective:
+
+Deploy capital into assets.
+
+Focus:
+
+- Acquisitions
+- Investments
+- Technology assets
+- Enterprise growth
+
+---
+
+# Competitive Advantage
+
+## Lean Operations
+
+Low overhead creates flexibility.
+
+---
+
+## Technology Leverage
+
+AI and automation increase capability.
+
+---
+
+## Research-Driven Decisions
+
+Opportunities are analyzed before capital is committed.
+
+---
+
+## Long-Term Thinking
+
+Revenue is converted into ownership and assets.
+
+---
+
+# Leadership
+
+## Founder & CEO
+
+**Terry Williams**
+
+Responsibilities:
+
+- Strategic direction
+- Opportunity identification
+- Business development
+- Capital allocation
+- System development
+
+Operating philosophy:
+
+```
+Build Businesses
+        ↓
+Create Cash Flow
+        ↓
+Acquire Assets
+        ↓
+Compound Value
+```
+
+---
+
+# Corporate Operating Principle
+
+MN Global Investment Holdings LLC exists to transform:
+
+```
+Inefficiency → Opportunity
+
+Opportunity → Cash Flow
+
+Cash Flow → Assets
+
+Assets → Lasting Enterprise Value
+```
+
+---
+
+# Executive Summary
+
+MN Global Investment Holdings LLC is a technology-enabled holding company built for disciplined growth.
+
+The company begins as a lean technology intelligence business providing:
+
+- Research
+- Automation guidance
+- Technology improvement solutions
+
+to small businesses.
+
+Over time, MN Global evolves into a diversified holding platform focused on:
+
+- Revenue generation
+- Asset acquisition
+- Technology leverage
+- Capital management
+- Long-term wealth creation
+
+---
+
+# The Strategy
+
+```
+Build Cash Flow
+        ↓
+Acquire Assets
+        ↓
+Compound Value
+```
+
+---
+
+## MN Global Investment Holdings LLC
+
+**A technology-enabled capital platform designed for disciplined growth, operational efficiency, and long-term enterprise value.**
