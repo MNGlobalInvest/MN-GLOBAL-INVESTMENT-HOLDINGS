@@ -6,7 +6,41 @@
 
 **A One-Person, AI-Powered Holding Company**
 
----
+<br>
+
+<!-- Document & Version -->
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-August%202026-informational?style=for-the-badge)
+![Document](https://img.shields.io/badge/Document-Confidential-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Proprietary-black?style=for-the-badge)
+
+<br>
+
+<!-- Company Model -->
+![Model](https://img.shields.io/badge/Model-One--Person%20%7C%20AI--Powered-purple?style=for-the-badge)
+![Workforce](https://img.shields.io/badge/Workforce-Solo%20%2B%20AI%20Agents-9b59b6?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Holding%20Company-blueviolet?style=for-the-badge)
+![Division](https://img.shields.io/badge/Operating%20Division-Tech%20Intelligence-teal?style=for-the-badge)
+
+<br>
+
+<!-- Legal & Location -->
+![Entity](https://img.shields.io/badge/Entity-MN%20LLC-lightgrey?style=for-the-badge)
+![Formation](https://img.shields.io/badge/Formation-Minnesota-lightblue?style=for-the-badge)
+![HQ](https://img.shields.io/badge/HQ-Memphis%2C%20TN-orange?style=for-the-badge)
+![Remote](https://img.shields.io/badge/Operations-100%25%20Remote-success?style=for-the-badge)
+![Founded](https://img.shields.io/badge/Founded-2013-yellow?style=for-the-badge)
+
+<br>
+
+<!-- Leadership & Stack -->
+![Founder](https://img.shields.io/badge/Founder%20%26%20CEO-Terry%20Williams-darkblue?style=for-the-badge)
+![AI Stack](https://img.shields.io/badge/AI%20Stack-Claude%20%7C%20ChatGPT%20%7C%20Perplexity-ff69b4?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payments-Stripe-635bff?style=for-the-badge)
+![Infra](https://img.shields.io/badge/Infra-Google%20Workspace-4285F4?style=for-the-badge)
+
+<br>
 
 **Version 1.0 — August 3, 2026**
 
@@ -152,10 +186,10 @@ Revenue is generated through four tiers: one-time diagnostic engagements (Techno
 
 | Service | Description |
 |---------|-------------|
-| 🔍 **Technology Audit** | Fixed-scope diagnostic engagement that inventories a client's entire technology stack — software, subscriptions, integrations, data flow, and security posture — identifying waste, risk, and automation opportunity. |
-| 🧹 **Technology Cleanup** | Fixed-scope implementation engagement that executes the Audit's recommendations: consolidating redundant tools, retiring unused subscriptions, fixing broken integrations, organizing data and access controls. |
-| ⚙️ **AI Workflow Automation** | Project-based engagements designing and deploying AI-driven automations for a client's highest-friction manual processes — intake, scheduling, reporting, content, communication. |
-| 🧠 **Fractional AI CTO** | Monthly retainer under which the founder acts as the client's outsourced, AI-augmented technology leader — vendor evaluation, roadmap planning, security oversight, quarterly strategy review. |
+| **Technology Audit** | Fixed-scope diagnostic engagement that inventories a client's entire technology stack — software, subscriptions, integrations, data flow, and security posture — identifying waste, risk, and automation opportunity. |
+| **Technology Cleanup** | Fixed-scope implementation engagement that executes the Audit's recommendations: consolidating redundant tools, retiring unused subscriptions, fixing broken integrations, organizing data and access controls. |
+| **AI Workflow Automation** | Project-based engagements designing and deploying AI-driven automations for a client's highest-friction manual processes — intake, scheduling, reporting, content, communication. |
+| **Fractional AI CTO** | Monthly retainer under which the founder acts as the client's outsourced, AI-augmented technology leader — vendor evaluation, roadmap planning, security oversight, quarterly strategy review. |
 
 ### Pricing
 
