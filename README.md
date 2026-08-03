@@ -1,48 +1,35 @@
 <div align="center">
 
 # MN Global Investment Holdings LLC
-
 ### Operating Manual & Corporate Playbook
-
 **A One-Person, AI-Powered Holding Company**
 
-<br>
+![Version](https://img.shields.io/badge/VERSION-1.0-2f6fed?style=for-the-badge&labelColor=4a4a4a)
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-2ea043?style=for-the-badge&labelColor=4a4a4a)
+![Updated](https://img.shields.io/badge/UPDATED-AUGUST%202026-2f6fed?style=for-the-badge&labelColor=4a4a4a)
+![Document](https://img.shields.io/badge/DOCUMENT-CONFIDENTIAL-d1242f?style=for-the-badge&labelColor=4a4a4a)
 
-<!-- Document & Version -->
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-August%202026-informational?style=for-the-badge)
-![Document](https://img.shields.io/badge/Document-Confidential-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-black?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-111111?style=for-the-badge&labelColor=4a4a4a)
 
-<br>
+![Model](https://img.shields.io/badge/MODEL-ONE--PERSON%20%7C%20AI--POWERED-8250df?style=for-the-badge&labelColor=4a4a4a)
+![Workforce](https://img.shields.io/badge/WORKFORCE-SOLO%20%2B%20AI%20AGENTS-8250df?style=for-the-badge&labelColor=4a4a4a)
+![Type](https://img.shields.io/badge/TYPE-HOLDING%20COMPANY-8250df?style=for-the-badge&labelColor=4a4a4a)
+![Operating Division](https://img.shields.io/badge/OPERATING%20DIVISION-TECH%20INTELLIGENCE-0d9488?style=for-the-badge&labelColor=4a4a4a)
 
-<!-- Company Model -->
-![Model](https://img.shields.io/badge/Model-One--Person%20%7C%20AI--Powered-purple?style=for-the-badge)
-![Workforce](https://img.shields.io/badge/Workforce-Solo%20%2B%20AI%20Agents-9b59b6?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Holding%20Company-blueviolet?style=for-the-badge)
-![Division](https://img.shields.io/badge/Operating%20Division-Tech%20Intelligence-teal?style=for-the-badge)
+![Entity](https://img.shields.io/badge/ENTITY-MN%20LLC-6a737d?style=for-the-badge&labelColor=4a4a4a)
+![Formation](https://img.shields.io/badge/FORMATION-MINNESOTA-2f6fed?style=for-the-badge&labelColor=4a4a4a)
+![HQ](https://img.shields.io/badge/HQ-MEMPHIS%2C%20TN-e8590c?style=for-the-badge&labelColor=4a4a4a)
+![Operations](https://img.shields.io/badge/OPERATIONS-100%25%20REMOTE-2ea043?style=for-the-badge&labelColor=4a4a4a)
+![Founded](https://img.shields.io/badge/FOUNDED-2013-d4a72c?style=for-the-badge&labelColor=4a4a4a)
 
-<br>
+![Founder & CEO](https://img.shields.io/badge/FOUNDER%20%26%20CEO-TERRY%20WILLIAMS-2f6fed?style=for-the-badge&labelColor=4a4a4a)
+![AI Stack](https://img.shields.io/badge/AI%20STACK-CLAUDE%20%7C%20CHATGPT%20%7C%20PERPLEXITY-d6409f?style=for-the-badge&labelColor=4a4a4a)
+![Payments](https://img.shields.io/badge/PAYMENTS-STRIPE-2f6fed?style=for-the-badge&labelColor=4a4a4a)
 
-<!-- Legal & Location -->
-![Entity](https://img.shields.io/badge/Entity-MN%20LLC-lightgrey?style=for-the-badge)
-![Formation](https://img.shields.io/badge/Formation-Minnesota-lightblue?style=for-the-badge)
-![HQ](https://img.shields.io/badge/HQ-Memphis%2C%20TN-orange?style=for-the-badge)
-![Remote](https://img.shields.io/badge/Operations-100%25%20Remote-success?style=for-the-badge)
-![Founded](https://img.shields.io/badge/Founded-2013-yellow?style=for-the-badge)
-
-<br>
-
-<!-- Leadership & Stack -->
-![Founder](https://img.shields.io/badge/Founder%20%26%20CEO-Terry%20Williams-darkblue?style=for-the-badge)
-![AI Stack](https://img.shields.io/badge/AI%20Stack-Claude%20%7C%20ChatGPT%20%7C%20Perplexity-ff69b4?style=for-the-badge)
-![Payments](https://img.shields.io/badge/Payments-Stripe-635bff?style=for-the-badge)
-![Infra](https://img.shields.io/badge/Infra-Google%20Workspace-4285F4?style=for-the-badge)
-
-<br>
-
-**Version 1.0 — August 3, 2026**
+**Founder & CEO:** Terry Williams
+**State of Formation:** Minnesota &nbsp;|&nbsp; **Headquarters:** Memphis, Tennessee
+**Operating Division:** MN Global Technology Intelligence
+**Manual Version:** 1.0 — August 3, 2026
 
 </div>
 
@@ -73,7 +60,7 @@
 
 ### Company Overview
 
-**MN Global Investment Holdings LLC** ("MN Global" or "the Company") is a Minnesota-formed, Memphis-headquartered holding company built and operated by a single founder — **Terry Williams** — augmented by a coordinated system of artificial intelligence tools functioning as a full virtual workforce. Rather than scaling through headcount, MN Global scales through automation, AI-driven execution, and disciplined capital allocation.
+MN Global Investment Holdings LLC ("MN Global" or "the Company") is a Minnesota-formed, Memphis-headquartered holding company built and operated by a single founder — Terry Williams — augmented by a coordinated system of artificial intelligence tools functioning as a full virtual workforce. Rather than scaling through headcount, MN Global scales through automation, AI-driven execution, and disciplined capital allocation.
 
 The Company's operating division, **MN Global Technology Intelligence**, delivers technology audits, technology cleanup, AI workflow automation, and fractional AI CTO services to small and mid-sized businesses. Profits generated by the operating division are systematically converted into a long-term investment portfolio governed by the Company's Investment Policy Statement, creating a self-reinforcing flywheel between operating income and capital growth.
 
@@ -81,16 +68,16 @@ This document is the definitive operating manual for MN Global Investment Holdin
 
 ### Mission
 
-To give independent businesses enterprise-grade technology clarity and automation — delivered with the speed, discipline, and judgment of a single owner-operator amplified by artificial intelligence — while converting every dollar of profit into permanent, income-producing capital.
+> To give independent businesses enterprise-grade technology clarity and automation — delivered with the speed, discipline, and judgment of a single owner-operator amplified by artificial intelligence — while converting every dollar of profit into permanent, income-producing capital.
 
 ### Vision
 
-To prove that a single disciplined operator, armed with the right AI systems and the right capital policy, can build a durable, multi-division holding company without ever trading time for headcount — and to make that model the template for the next generation of sovereign, one-person enterprises.
+> To prove that a single disciplined operator, armed with the right AI systems and the right capital policy, can build a durable, multi-division holding company without ever trading time for headcount — and to make that model the template for the next generation of sovereign, one-person enterprises.
 
 ### Core Values
 
 | Value | Description |
-|-------|-------------|
+|---|---|
 | **Sovereignty** | The Company answers to no unnecessary dependency: not on employees to execute, not on debt to operate, and not on fiat-only savings to store wealth. |
 | **Discipline** | Every process is documented, every dollar is routed on purpose, and every decision follows a written policy rather than a mood. |
 | **Leverage** | Technology and AI are used to multiply one person's output, not to replace judgment; the founder decides, the systems execute. |
@@ -110,7 +97,7 @@ MN Global Technology Intelligence is both a live case study of this philosophy a
 ### MN Global Investment Holdings LLC
 
 | Field | Detail |
-|-------|--------|
+|---|---|
 | **Legal Name** | MN Global Investment Holdings LLC |
 | **Entity Type** | Single-Member Limited Liability Company (Holding Company) |
 | **State of Formation** | Minnesota |
@@ -136,7 +123,7 @@ This structure gives the Company the governing-law stability of its original Min
 
 MN Global Investment Holdings LLC is the parent entity. It owns the operating division, holds the investment portfolio, and is the legal and financial umbrella under which all activity occurs. The Company deliberately separates operating cash flow (income earned from client services) from investment capital (long-term holdings), so the performance of the service business is never confused with the performance of the portfolio, and capital markets exposure never puts client delivery at risk.
 
-**MN Global Technology Intelligence (Operating Division)** — the client-facing consultancy arm of the Company. It generates 100% of the Company's operating revenue through Technology Audits, Technology Cleanup, AI Workflow Automation, and Fractional AI CTO engagements. All service delivery, sales, and marketing activity described in this manual lives inside this division, run entirely by the Founder using the AI Operating System described in Section 11.
+**MN Global Technology Intelligence** (Operating Division) — the client-facing consultancy arm of the Company. It generates 100% of the Company's operating revenue through Technology Audits, Technology Cleanup, AI Workflow Automation, and Fractional AI CTO engagements. All service delivery, sales, and marketing activity described in this manual lives inside this division, run entirely by the Founder using the AI Operating System described in Section 11.
 
 ### Future Divisions (Placeholder for Expansion)
 
@@ -144,7 +131,7 @@ MN Global Investment Holdings LLC is the parent entity. It owns the operating di
 - **Sovereign Nomad** — a separate, related venture producing digital products and tools for Bitcoin stackers, digital nomads, and freedom-focused entrepreneurs.
 - **MN Global Media** — a potential future division for productized content, courses, or licensing of the Company's internal AI Operating System.
 
-Each future division is added to this manual as a new subsection of Section 1 once active, with its own P&L, SOPs, and KPIs.
+> Each future division is added to this manual as a new subsection of Section 1 once active, with its own P&L, SOPs, and KPIs.
 
 ---
 
@@ -152,22 +139,21 @@ Each future division is added to this manual as a new subsection of Section 1 on
 
 ### Business Model Canvas
 
-| | | |
-|---|---|---|
-| **Key Partners** | **Key Activities** | **Value Proposition** |
-| AI platform vendors (Anthropic, OpenAI, Google); payment & scheduling infrastructure (Stripe, NeetoCal); accounting support | Technology audits; workflow automation builds; fractional CTO advisory; content & lead generation | Enterprise-grade technology clarity and automation, delivered by one accountable owner-operator, at solo-consultant speed and small-business pricing |
-| **Key Resources** | **Channels** | **Customer Relationships** |
-| AI tool stack; proprietary SOPs & prompt library; founder's technical judgment; portfolio of case studies | LinkedIn; cold email; referral network; direct outreach | High-touch, founder-led relationship; single point of contact; recurring advisory retainer |
-| **Cost Structure** | **Revenue Streams** | **Customer Segments** |
-| Low fixed costs (software subscriptions only) | Revenue from audits, project fees, and monthly retainers | Owner-operated small and mid-sized businesses lacking in-house technical leadership |
+| Key Partners | Key Activities | Value Proposition | Customer Relationships |
+|---|---|---|---|
+| AI platform vendors (Anthropic, OpenAI, Google); payment & scheduling infrastructure (Stripe, NeetoCal); accounting support | Technology audits; workflow automation builds; fractional CTO advisory; content & lead generation | Enterprise-grade technology clarity and automation, delivered by one accountable owner-operator, at solo-consultant speed and small-business pricing | High-touch, founder-led relationship; single point of contact; recurring advisory retainer |
+
+| Key Resources | Channels | Customer Segments | Cost Structure / Revenue Streams |
+|---|---|---|---|
+| AI tool stack; proprietary SOPs & prompt library; founder's technical judgment; portfolio of case studies | LinkedIn; cold email; referral network; direct outreach | Owner-operated small and mid-sized businesses lacking in-house technical leadership | Low fixed costs (software subscriptions only); revenue from audits, project fees, and monthly retainers |
 
 ### One-Customer Strategy
 
-Rather than pursuing broad market coverage, MN Global Technology Intelligence deliberately concentrates on a single, tightly-defined buyer profile: the owner of a service-based or light-operations small business ($500K–$10M revenue) who knows technology is holding the business back but has neither the time nor the in-house expertise to fix it. Every offer, script, and piece of content is written to speak to this one buyer.
+Rather than pursuing broad market coverage, MN Global Technology Intelligence deliberately concentrates on a single, tightly-defined buyer profile: **the owner of a service-based or light-operations small business ($500K–$10M revenue)** who knows technology is holding the business back but has neither the time nor the in-house expertise to fix it. Every offer, script, and piece of content is written to speak to this one buyer.
 
 ### Value Proposition
 
-> We find the technology that is quietly costing you money and time, clean it up, automate what should never have required a human, and stay on as your fractional AI-era CTO — all without the overhead of hiring anyone.
+> "We find the technology that is quietly costing you money and time, clean it up, automate what should never have required a human, and stay on as your fractional AI-era CTO — all without the overhead of hiring anyone."
 
 ### Competitive Advantage
 
@@ -185,22 +171,22 @@ Revenue is generated through four tiers: one-time diagnostic engagements (Techno
 ## 3. Services
 
 | Service | Description |
-|---------|-------------|
-| **Technology Audit** | Fixed-scope diagnostic engagement that inventories a client's entire technology stack — software, subscriptions, integrations, data flow, and security posture — identifying waste, risk, and automation opportunity. |
-| **Technology Cleanup** | Fixed-scope implementation engagement that executes the Audit's recommendations: consolidating redundant tools, retiring unused subscriptions, fixing broken integrations, organizing data and access controls. |
-| **AI Workflow Automation** | Project-based engagements designing and deploying AI-driven automations for a client's highest-friction manual processes — intake, scheduling, reporting, content, communication. |
-| **Fractional AI CTO** | Monthly retainer under which the founder acts as the client's outsourced, AI-augmented technology leader — vendor evaluation, roadmap planning, security oversight, quarterly strategy review. |
+|---|---|
+| 🔍 **Technology Audit** | Fixed-scope diagnostic engagement that inventories a client's entire technology stack — software, subscriptions, integrations, data flow, and security posture — identifying waste, risk, and automation opportunity. |
+| 🧹 **Technology Cleanup** | Fixed-scope implementation engagement that executes the Audit's recommendations: consolidating redundant tools, retiring unused subscriptions, fixing broken integrations, organizing data and access controls. |
+| ⚙️ **AI Workflow Automation** | Project-based engagements designing and deploying AI-driven automations for a client's highest-friction manual processes — intake, scheduling, reporting, content, communication. |
+| 🧠 **Fractional AI CTO** | Monthly retainer under which the founder acts as the client's outsourced, AI-augmented technology leader — vendor evaluation, roadmap planning, security oversight, quarterly strategy review. |
 
 ### Pricing
 
 | Service | Structure | Indicative Price Range |
-|---------|-----------|------------------------|
+|---|---|---|
 | Technology Audit | Fixed fee, one-time | $1,500 – $3,500 |
 | Technology Cleanup | Fixed fee, one-time | $2,500 – $7,500 |
 | AI Workflow Automation | Per-project, scoped | $3,000 – $15,000 |
 | Fractional AI CTO | Monthly retainer | $1,500 – $5,000 / month |
 
-Prices are calibrated annually against delivery capacity, competitor benchmarking, and realized project hours, reviewed as part of the Quarterly Review SOP (Section 10).
+> Prices are calibrated annually against delivery capacity, competitor benchmarking, and realized project hours, reviewed as part of the Quarterly Review SOP (Section 10).
 
 ### Deliverables
 
@@ -217,37 +203,10 @@ Each service above follows a written SOP covering intake, execution, and handoff
 
 ## 4. Sales System
 
-### Lead Generation
-
-Built from three channels weighted toward compounding, low-cost-of-acquisition sources:
-
-- LinkedIn content and outbound
-- Referral requests built into every client offboarding
-- Targeted cold email to the defined one-customer profile
-
-### Prospecting
-
-Prospects are qualified against four filters:
-
-1. Revenue band ($500K–$10M)
-2. No in-house technical leader
-3. Visible signs of technology debt
-4. Reachability through a warm or semi-warm channel
-
-AI research agents pre-screen and score each prospect.
-
-### Cold Email
-
-Short sequences (3–4 touches) leading with a specific, credible observation, always offering the Technology Audit as the low-friction entry point.
-
-### Phone Scripts
-
-Discovery and closing calls follow a written script structure (Appendix A) built around four phases:
-
-1. Rapport and context
-2. Diagnostic questioning
-3. Findings/opportunity framing
-4. Single clear next-step ask
+- **Lead Generation** — built from three channels weighted toward compounding, low-cost-of-acquisition sources: LinkedIn content and outbound, referral requests built into every client offboarding, and targeted cold email to the defined one-customer profile.
+- **Prospecting** — prospects are qualified against four filters: revenue band ($500K–$10M), no in-house technical leader, visible signs of technology debt, and reachability through a warm or semi-warm channel. AI research agents pre-screen and score each prospect.
+- **Cold Email** — short sequences (3–4 touches) leading with a specific, credible observation, always offering the Technology Audit as the low-friction entry point.
+- **Phone Scripts** — discovery and closing calls follow a written script structure (Appendix A) built around four phases: rapport and context, diagnostic questioning, findings/opportunity framing, single clear next-step ask.
 
 ### Discovery Process
 
@@ -257,29 +216,16 @@ Discovery and closing calls follow a written script structure (Appendix A) built
 4. Map the friction to the specific service tier that resolves it.
 5. Set a decision timeline before the call ends.
 
-### Closing Process
-
-Every engagement is confirmed with a one-page scope-and-price document sent within 24 hours of the discovery call, with a default validity window of seven days.
-
-### Client Onboarding
-
-Templated process:
-
-- Welcome email with scope confirmation
-- Secure document/access request
-- Kickoff call scheduled via NeetoCal
-- Shared project tracker from a standard template (Appendix D)
-
-### Follow-Up System
-
-Every closed-lost or completed-project client enters an automated follow-up cadence (30/90/180-day check-ins) to re-engage dormant prospects and surface referral/retainer-upgrade opportunities.
+- **Closing Process** — every engagement is confirmed with a one-page scope-and-price document sent within 24 hours of the discovery call, with a default validity window of seven days.
+- **Client Onboarding** — templated: welcome email with scope confirmation, secure document/access request, kickoff call scheduled via NeetoCal, shared project tracker from a standard template (Appendix D).
+- **Follow-Up System** — every closed-lost or completed-project client enters an automated follow-up cadence (30/90/180-day check-ins) to re-engage dormant prospects and surface referral/retainer-upgrade opportunities.
 
 ---
 
 ## 5. Marketing System
 
 | Channel | Approach |
-|---------|----------|
+|---|---|
 | **Website** | Credibility asset and audit-request funnel — single value proposition, service tier breakdown, case studies, one primary CTA ("Request a Technology Audit"). |
 | **LinkedIn** | Primary organic channel; 3–4 posts/week across technology-debt observations, behind-the-scenes build content, and client-result stories. |
 | **Email Marketing** | Monthly newsletter + automated follow-up cadence; content mirrors LinkedIn themes but goes deeper. |
@@ -293,7 +239,7 @@ Every closed-lost or completed-project client enters an automated follow-up cade
 The Company's entire operation — sales, delivery, marketing, finance — runs on a deliberately small, high-leverage stack. Each tool functions as a "department" in the one-person company model.
 
 | Tool | Function | Role in the Company |
-|------|----------|---------------------|
+|---|---|---|
 | **ChatGPT (AURA)** | Primary reasoning & drafting assistant | Strategy drafting, content generation, day-to-day reasoning support |
 | **Claude** | Deep work & document generation | Long-form document creation, SOP drafting, code review, structured analysis |
 | **Google AI Studio** | Model experimentation | Testing/tuning prompts before they're locked into the prompt library |
@@ -306,7 +252,7 @@ The Company's entire operation — sales, delivery, marketing, finance — runs 
 | **Coefficient** | Data sync | Live spreadsheet reporting from connected business data sources |
 | **Google Workspace** | Core infrastructure | Email, document storage, calendar, file organization |
 
-New tools are added only when they replace a manual task with measurable time or cost savings; the stack is reviewed each quarter to retire underused subscriptions.
+> New tools are added only when they replace a manual task with measurable time or cost savings; the stack is reviewed each quarter to retire underused subscriptions.
 
 ---
 
@@ -315,13 +261,13 @@ New tools are added only when they replace a manual task with measurable time or
 ### Weekly Schedule
 
 | Day | Focus |
-|-----|-------|
-| **Monday** | Weekly review, priority-setting, pipeline management |
-| **Tuesday** | Client delivery (audits, cleanups, automation builds) |
-| **Wednesday** | Client delivery + discovery/closing calls |
-| **Thursday** | Content creation and marketing execution |
-| **Friday** | Fractional CTO retainer check-ins, admin, finance routines |
-| **Weekend** | Portfolio/investment review (monthly, not weekly) |
+|---|---|
+| Monday | Weekly review, priority-setting, pipeline management |
+| Tuesday | Client delivery (audits, cleanups, automation builds) |
+| Wednesday | Client delivery + discovery/closing calls |
+| Thursday | Content creation and marketing execution |
+| Friday | Fractional CTO retainer check-ins, admin, finance routines |
+| Weekend | Portfolio/investment review (monthly, not weekly) |
 
 ### Daily Workflow
 
@@ -330,10 +276,199 @@ New tools are added only when they replace a manual task with measurable time or
 3. Sales/marketing block (outreach, content, or follow-up).
 4. End-of-day close: update project tracker, log time against retainer clients, queue next-day priorities.
 
-### Client Workflow
-
-Every client moves through five stages: **Lead → Discovery → Proposal → Active Delivery → Retainer/Follow-Up**, each with a defined exit criterion.
+**Client Workflow** — every client moves through five stages: `Lead → Discovery → Proposal → Active Delivery → Retainer/Follow-Up`, each with a defined exit criterion.
 
 ### File Organization
 
 Google Workspace, standard top-level structure:
+
+```
+/Clients/[Client Name]/
+/Marketing/
+/Finance/
+/SOPs/
+/AI-Prompt-Library/
+```
+
+**Naming Conventions** — `YYYY-MM-DD_ClientName_DocumentType_v#` (e.g. `2026-08-02_Acme_TechAudit_v1`).
+
+**Checklists** — every recurring workflow (onboarding, audit delivery, offboarding, monthly close) has a corresponding checklist in the Appendices.
+
+---
+
+## 8. Financial System
+
+| Component | Policy |
+|---|---|
+| **Revenue Flow** | All client payments collected via Stripe into the primary business account; revenue tagged by service line at invoicing. |
+| **Expense Policy** | Fixed costs limited to software subscriptions, insurance, registered agent/compliance fees, and professional services. New recurring expenses >$50/month require written justification. |
+| **Tax Reserves** | 30% of gross revenue transferred to a dedicated tax reserve sub-account immediately upon receipt, before any other allocation. |
+| **Owner Distributions** | Taken on a fixed monthly schedule after tax reserves and a 3-month operating cash buffer are satisfied. |
+| **Investment Policy** | Net profit remaining is swept into the investment portfolio monthly, per Section 9. |
+
+### Cash Management
+
+| Account | Purpose |
+|---|---|
+| Operating Account | Day-to-day revenue collection and expense payment |
+| Tax Reserve Account | Quarterly estimated tax payments |
+| Owner Distribution Account | Monthly transfer destination for founder pay |
+| Investment Sweep Account | Staging account before capital moves into brokerage/Bitcoin holdings |
+
+---
+
+## 9. Investment Policy Statement
+
+**Portfolio Objectives** — convert operating profit into permanent, income-producing, monetarily sound capital. Managed for long-term compounding and durable dividend income first, capital appreciation second, with a fixed, mechanical allocation to Bitcoin as a hedge against currency debasement.
+
+### Strategic Allocation
+
+| Holding | Target Weight | Role in Portfolio |
+|---|---|---|
+| McDonald's Corporation (MCD) | 70% | Core dividend-growth equity holding; durable brand and cash-flow stability |
+| Schwab U.S. Dividend Equity ETF (SCHD) | 30% | Diversified dividend-growth exposure across quality U.S. companies |
+
+### Dividend Reinvestment Policy
+
+1. 100% of dividends generated by MCD and SCHD are captured monthly.
+2. 70% of monthly dividend income is automatically reinvested via DRIP back into the source holdings (MCD/SCHD), in proportion to the target allocation.
+3. 30% of monthly dividend income is converted and allocated into Bitcoin, treated as a permanent, non-selling, cold-storage holding.
+
+**Bitcoin Allocation Policy** — accumulated via disciplined dollar-cost averaging, secured in cold storage under a multisig custody arrangement, not held for trading. Treated as a distinct, generational store-of-value asset.
+
+**Long-Term Wealth Strategy** — the portfolio is designed to be perpetual: equity dividends fund equity reinvestment and Bitcoin accumulation simultaneously. No holding is sold under this policy except by formal, written amendment approved by the Founder.
+
+**Rebalancing and Review** — allocation drift reviewed quarterly. If either equity position drifts more than 5 percentage points from its 70/30 target, new contributions are directed to the underweight position rather than selling the overweight one.
+
+---
+
+## 10. Standard Operating Procedures (SOPs)
+
+### Delivering Audits
+
+1. Send intake questionnaire (Appendix G) immediately after signed proposal.
+2. Run AI-assisted stack discovery against client-provided access.
+3. Draft findings report using the standard Audit template (Appendix F).
+4. Self-review findings against the Quality Control checklist (Section 11).
+5. Deliver findings on a live call; send the written report within 24 hours.
+
+### Building Automation
+
+1. Confirm the single process being automated and its current manual cost (time/dollars).
+2. Map the current-state process using Mermaid.js.
+3. Build and test the automation in a sandboxed/staging environment before touching live client systems.
+4. Document the automation and record a walkthrough video for handoff.
+5. Monitor performance for 14 days post-launch before considering the engagement closed.
+
+### Client Communication
+
+- All substantive client commitments are confirmed in writing (email), even if first discussed by phone.
+- Standard response-time commitment: same business day for retainer clients, within 24 hours for project clients.
+- Every engagement ends with a written summary of outcomes, regardless of whether the client requests one.
+
+### Review Cadence
+
+| Cadence | Scope |
+|---|---|
+| **Weekly Review** | Every Monday: pipeline status, week's delivery priorities, tax reserve/operating account balances, process friction log. |
+| **Monthly Review** | First business day: close the books, execute tax reserve and investment sweep, reconcile retainer billing, review KPIs vs. targets. |
+| **Quarterly Review** | Full review of pricing, technology stack, portfolio allocation drift, and roadmap progress. Manual changes version-logged. |
+| **Annual Review** | Complete re-evaluation of mission, vision, one-customer strategy, and Investment Policy Statement; full document revision. |
+
+---
+
+## 11. Artificial Intelligence Operating System
+
+The AI Operating System is what allows MN Global to function as a one-person company — formalizing AI tools into the equivalent of departments and staff, each with defined responsibilities, guardrails, and quality checks.
+
+**Prompt Library** — a maintained, version-controlled library of proven prompts organized by function, stored in `/AI-Prompt-Library/`. Every new recurring task graduates into a saved, reusable prompt within 30 days.
+
+### AI Workflows
+
+- **Research:** Perplexity AI → Claude/ChatGPT (AURA) synthesis → founder review
+- **Content:** Content pillar → AI draft → founder edit/approval → scheduled publish
+- **Delivery:** Client data intake → AI-assisted analysis → founder judgment → deliverable
+- **Automation:** Process mapping (Mermaid.js) → Copilot-assisted build → sandbox test → deployment
+
+**Research Procedures** — all AI-assisted research used in client-facing or capital-allocation decisions must be cross-checked against at least one primary or authoritative source before being acted on.
+
+### Automation Guidelines
+
+- No automation touches live client financial or customer data without a prior sandbox test.
+- Every automation has a documented manual fallback.
+- Every automation is reviewed at the Quarterly Review checkpoint.
+
+**Quality Control** — every AI-generated deliverable passes through one mandatory gate before reaching a client or affecting Company capital: founder review against the relevant SOP and a factual-accuracy check. No AI output is sent externally unreviewed.
+
+---
+
+## 12. Risk Management
+
+| Area | Policy |
+|---|---|
+| **Cybersecurity** | Unique, password-manager-generated credentials; MFA everywhere available; client access requested at minimum necessary scope and revoked at engagement close; Bitcoin secured via multisig cold storage. |
+| **Data Protection** | Client data stored only within the designated Google Workspace client folder structure; deleted/archived per contract terms at engagement close. |
+| **Client Confidentiality** | Mutual confidentiality clause standard in every proposal/contract (Appendix E); client details never used publicly without written permission. |
+| **Disaster Recovery** | Files stored in cloud-redundant Google Workspace; prompt library, SOPs, and this manual version-archived; critical credentials in a secured, encrypted recovery record for a trusted contact. |
+| **Business Continuity** | Primary risk is founder unavailability. Mitigated by a written continuity letter, an emergency contact list of professional service providers, and a manual detailed enough for a trusted contractor to execute any SOP. |
+
+---
+
+## 13. Key Performance Indicators
+
+| Category | Tracked Metrics |
+|---|---|
+| **Sales KPIs** | Leads generated, discovery calls booked, proposal-to-close rate, average deal size, sales cycle length |
+| **Marketing KPIs** | LinkedIn engagement rate, website audit-request conversion rate, email list growth, content output vs. plan |
+| **Financial KPIs** | Monthly revenue by service line, gross margin, tax reserve balance, monthly investment sweep amount, distribution consistency |
+| **Client KPIs** | Client satisfaction, retainer retention rate, referral rate, average client lifetime value |
+| **Operations KPIs** | On-time delivery rate, SOP adherence, tool-stack cost as % of revenue, hours per engagement vs. estimate |
+
+> KPIs are reviewed monthly and reported against fixed quarterly targets. Trend lines matter more than any single month's reading.
+
+---
+
+## 14. Five-Year Strategic Roadmap
+
+| Year | Revenue / Client Milestone | Investment / Expansion Milestone |
+|---|---|---|
+| **Year 1** | Establish repeatable Audit → Cleanup → Retainer pipeline; first cohort of retainer clients | Formalize monthly investment sweep; begin disciplined MCD/SCHD/BTC accumulation |
+| **Year 2** | Grow retainer base to a stable recurring-revenue floor; refine one-customer positioning | Portfolio dividend income becomes a visible, tracked line item; continued BTC accumulation |
+| **Year 3** | Evaluate first contractor/AI-agent expansion beyond solo capacity for delivery overflow only | Consider formalizing MN Global Capital as a distinct internal division |
+| **Year 4** | Explore productization of SOPs/AI Operating System as a licensable offer | Reassess allocation policy at scale; evaluate additional dividend-growth holdings |
+| **Year 5** | Full holding-company structure with at least one additional active division | Portfolio dividend income targeted to materially offset fixed operating costs |
+
+### Expansion Opportunities
+
+- Sovereign Nomad as a complementary, digitally-productized revenue stream serving the Bitcoin/nomad audience.
+- Licensing or productizing the AI Operating System itself as a template for other solo operators.
+- Selective, narrow use of contractors or additional AI agents strictly for delivery overflow — never a departure from the one-person leadership model.
+
+**Holding Company Growth Plan** — growth is measured first by durability of recurring revenue and portfolio income, second by top-line size. Each new division must independently justify its place inside MN Global Investment Holdings LLC by strengthening either the operating cash engine or the long-term capital base.
+
+---
+
+## 15. Appendices
+
+The Appendices house the Company's working documents — the fill-in-the-blank layer beneath every SOP in this manual. Maintained as living templates in `/SOPs/Appendices/`, updated whenever the corresponding SOP changes.
+
+| Appendix | Contents |
+|---|---|
+| **A — Sales Scripts** | Cold email sequence (4-touch) · Discovery call script · Closing call script · Objection-handling reference sheet |
+| **B — Marketing Templates** | LinkedIn post templates by content pillar · Monthly newsletter template · Case study template |
+| **C — Financial Templates** | Monthly close checklist · Investment sweep worksheet · Quarterly KPI scorecard |
+| **D — Client Onboarding Checklist** | Welcome email + scope confirmation → secure access request → kickoff call (NeetoCal) → project tracker → retainer/follow-up cadence |
+| **E — Contracts** | Master Services Agreement template · Mutual confidentiality/NDA clause · Fractional AI CTO retainer agreement |
+| **F — Audit Templates** | Technology stack inventory worksheet · Findings report template · Risk-ranked opportunity matrix |
+| **G — Client Questionnaires** | Pre-audit intake questionnaire · Post-engagement satisfaction survey |
+| **H — Forms** | Change-of-scope form · Engagement close-out form |
+
+---
+
+<div align="center">
+
+**End of Operating Manual — MN Global Investment Holdings LLC**
+
+*Confidential — Internal Governance Document · Version 1.0*
+
+</div>
