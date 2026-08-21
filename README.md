@@ -4,6 +4,14 @@
   <b>A single-operator, AI-executed holding company operating with zero employees[cite: 1].</b>
 </p>
 
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/sponsors/MNGlobalInvest"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa.svg" alt="GitHub Sponsors"></a>
+  <a href="https://opencollective.com/mn-global"><img src="https://img.shields.io/badge/Open%20Collective-Sponsor-blue.svg" alt="Open Collective"></a>
+  <img src="https://img.shields.io/badge/Model-AI%20Augmented-blueviolet.svg" alt="AI Augmented">
+  <img src="https://img.shields.io/badge/State-Minnesota-blue.svg" alt="State of Establishment">
+</p>
+
 ---
 
 ## Company at a Glance
@@ -22,10 +30,10 @@ The business operates entirely through an AI-augmented command console managed d
 
 | Role | Platform | Mandate |
 | :--- | :--- | :--- |
-| **Chief Executive Officer / Chief Architect** | Claude (Anthropic) | Systems architecture, SOPs, governance, and procurement drafting |
-| **Chief Revenue Officer / Market Intelligence** | Perplexity Pro | Revenue scouting, Minnesota SWIFT RFP tracking, and demand signals |
-| **Chief Information Officer / Data Auditor** | Gemini Pro | Data validation, schema checks, and daily treasury audit |
-| **Chief Marketing Officer / Growth** | Grok (xAI) | Distribution, visibility, and audience growth for open-source tools |
+| **Chief Executive Officer / Chief Architect** | Claude (Anthropic)[cite: 1] | Systems architecture, SOPs, governance, and procurement drafting[cite: 1] |
+| **Chief Revenue Officer / Market Intelligence** | Perplexity Pro[cite: 1] | Revenue scouting, Minnesota SWIFT RFP tracking, and demand signals[cite: 1] |
+| **Chief Information Officer / Data Auditor** | Gemini Pro (Google)[cite: 1] | Data validation, schema checks, and daily treasury audit[cite: 1] |
+| **Chief Marketing Officer / Growth** | Grok (xAI)[cite: 1] | Distribution, visibility, and audience growth for open-source tools[cite: 1] |
 
 ---
 
