@@ -24,7 +24,7 @@
 
 ---
 
-## Core Technology Stack & AI Executive Suite
+## Core Technology Stack & AI Staff
 
 The business operates entirely through an AI-augmented command console managed directly by the Founder, coordinated by Claude as Chief Executive Officer[cite: 1].
 
