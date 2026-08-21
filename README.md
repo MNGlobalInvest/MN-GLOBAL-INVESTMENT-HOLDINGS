@@ -1,454 +1,56 @@
-<div align="center">
+# MN Global Investment Holdings LLC
 
-# MN GLOBAL INVESTMENT HOLDINGS, LLC
-
-## The Company Blueprint
-
-### AI Profit Optimization System
-
-**A minimal operating model for building recurring cash flow through AI, automation, and software-cost optimization.**
-
-<br>
-
-**MN GLOBAL TECHNOLOGY INTELLIGENCE**  
-Operating Division  
-Memphis, Tennessee
-
-<br>
-
-[![Company](https://img.shields.io/badge/Company-MN%20Global%20Investment%20Holdings%20LLC-0A66C2)](https://github.com)
-[![AI Powered](https://img.shields.io/badge/Operations-AI%20Powered-8A2BE2)](https://github.com)
-[![Business Model](https://img.shields.io/badge/Model-Recurring%20Revenue-success)](https://github.com)
-[![Automation](https://img.shields.io/badge/Focus-Automation-orange)](https://github.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Complete-brightgreen)](https://github.com)
-[![Status](https://img.shields.io/badge/Status-Operating-blue)](https://github.com)
-[![Markdown](https://img.shields.io/badge/Format-Markdown-lightgrey)](https://github.com)
-
-</div>
+<p align="center">
+  <b>A single-operator, AI-executed holding company operating with zero employees[cite: 1].</b>
+</p>
 
 ---
 
-# Table of Contents
+## Company at a Glance
 
-- [Company Overview](#company-overview)
-- [Decision Framework](#decision-framework)
-- [Target Market](#target-market)
-- [Value Ladder](#value-ladder)
-- [Standard Operating Procedure](#standard-operating-procedure)
-- [Key Performance Indicators](#key-performance-indicators)
-- [Financial Policy](#financial-policy)
-- [Building the Moat](#building-the-moat)
-- [Five-Year Vision](#five-year-vision)
+* **Operating Division**: MN Global Technology Intelligence[cite: 1]
+* **Founded**: 2013 | Established in Minnesota, Headquartered in Memphis, Tennessee[cite: 1]
+* **Founder & CEO**: Terry Williams[cite: 1]
+* **Operating Model**: Remote-first, AI-augmented, 15-hour workweek[cite: 1]
+* **Core Channels**: Open-source tool network (GitHub/Sponsors) & State procurement contracts (Minnesota SWIFT)[cite: 1]
 
 ---
 
-# Company Overview
+## Core Technology Stack & AI Executive Suite
 
-## The Principle
+The business operates entirely through an AI-augmented command console managed directly by the Founder, coordinated by Claude as Chief Executive Officer[cite: 1].
 
-> Never sell an audit. Sell a financial outcome.
-
-MN Global Investment Holdings, LLC is a holding company built around one objective:
-
-**Convert AI and technology expertise into recurring cash flow and long-term capital ownership.**
-
-The operating division:
-
-**MN Global Technology Intelligence**
-
-helps small and mid-sized businesses:
-
-- Reduce wasted software spending
-- Eliminate operational inefficiencies
-- Automate repetitive workflows
-- Deploy practical AI systems
-
-**AI is the mechanism. Profit is the product.**
+| Role | Platform | Mandate |
+| :--- | :--- | :--- |
+| **Chief Executive Officer / Chief Architect** | Claude (Anthropic) | Systems architecture, SOPs, governance, and procurement drafting |
+| **Chief Revenue Officer / Market Intelligence** | Perplexity Pro | Revenue scouting, Minnesota SWIFT RFP tracking, and demand signals |
+| **Chief Information Officer / Data Auditor** | Gemini Pro | Data validation, schema checks, and daily treasury audit |
+| **Chief Marketing Officer / Growth** | Grok (xAI) | Distribution, visibility, and audience growth for open-source tools |
 
 ---
 
-# Business Model
+## Revenue Engine
 
-The company is designed around a lean operating model:
+### Channel A: Open-Source Tool Network
+Twenty free, self-contained tools published on GitHub at zero hosting cost[cite: 1]. Funded entirely through voluntary sponsorships via GitHub Sponsors and Open Collective[cite: 1]. 
+* *Featured Tools*: Data Sanitizer & PII Redactor, Local-First Invoice Generator, State RFP Feed Aggregator, Password & Secret Generator[cite: 1].
 
-- One operator
-- Documented systems
-- Fixed pricing
-- Standardized delivery
-- AI-assisted execution
-- Recurring revenue focus
-
-## What This Company Is Not
-
-❌ A general AI consulting agency  
-❌ Hourly consulting work  
-❌ Custom projects without boundaries  
-❌ One-time engagements without retention strategy  
-
-## The Simple Version
-
-
-Find businesses wasting money on software.
-
-↓
-
-Prove the opportunity quickly.
-
-↓
-
-Optimize technology costs.
-
-↓
-
-Automate remaining processes.
-
-↓
-
-Convert clients into recurring technology partners.
-
-↓
-
-Reinvest profits into long-term assets.
-
+### Channel B: State Procurement Contracts
+Active Minnesota SWIFT Supplier ID mapped to data processing, software services, and technical analytics[cite: 1]. Managed via automated portal scanning and precise proposal execution[cite: 1].
 
 ---
 
-# Decision Framework
+## The 3-6-9 Treasury Loop
 
-Every major decision passes through six filters.
-
-If an opportunity fails multiple filters, it is rejected.
-
-| Filter | Question |
-|---|---|
-| Demand | Is this a recurring problem someone pays to solve? |
-| Economics | Are margins, CAC, LTV, and cash conversion favorable? |
-| Control | What assets do we own and what dependencies exist? |
-| Execution | Can the process be documented and repeated? |
-| Scale | Does revenue grow faster than expenses? |
-| Defensibility | What prevents easy replication? |
+Every dollar earned moves through a strict 24-hour cycle, closing with a daily sweep at 00:00 UTC[cite: 1]:
+* **Tranche 1 (30%)**: Routed to a Donor-Advised Fund (Schwab/Fidelity) supporting community philanthropy, with addiction recovery in Duluth (Recovery Alliance Duluth) as the primary focus[cite: 1].
+* **Tranche 2 (60%)**: Retained as core treasury and infrastructure reserves[cite: 1].
+* **Tranche 3 (10%)**: Reserved for compute and operating liquidity[cite: 1].
 
 ---
 
-# Strategic Questions
-
-Before funding any initiative:
-
-- Where is cash actually generated?
-- Where is capital wasted?
-- Which assumptions lack evidence?
-- What creates operational risk?
-- What creates competitive advantage?
-- How does this become recurring revenue?
+## Security & Custody
+* **Air-Gapped Vault**: All key generation and sensitive operations run inside an isolated Tails Linux environment on an air-gapped USB[cite: 1].
+* **Cold Storage**: Single-key BIP-39 wallet with a steel-stamped backup and zero digital or cloud copies[cite: 1].
 
 ---
-
-# Target Market
-
-MN Global Technology Intelligence focuses exclusively on qualified businesses.
-
-## Client Qualification
-
-| Criteria | Requirement |
-|---|---|
-| Company Size | 10–100 employees |
-| Software Usage | 10+ SaaS subscriptions |
-| Decision Access | Owner/executive involvement |
-| Operations | Manual repetitive processes |
-| Financial Capacity | Ability to invest in optimization |
-
----
-
-# Ideal Industries
-
-- Law firms
-- Multi-location HVAC companies
-- Field service businesses
-- Medical practices
-- Dental practices
-- Accounting firms
-- Bookkeeping companies
-- Logistics companies
-- Distribution companies
-
----
-
-# Value Ladder
-
-Four stages.
-
-Each stage creates trust, measurable value, and funds the next.
-
----
-
-# Stage 1 — Profit Scan
-
-## Fixed Price: $297
-
-Delivery:
-
-**Within 48 hours**
-
-Includes:
-
-- Software inventory
-- Duplicate tool analysis
-- License optimization review
-- Top cost-saving opportunities
-- Automation opportunities
-- Executive scorecard
-
-## Guarantee
-
-> Identify at least $1,000 in annual savings or the fee is credited toward optimization work.
-
----
-
-# Stage 2 — Profit Optimization
-
-## Engagement Range
-
-$2,500 – $5,000
-
-Deliverables:
-
-- Cancel unused software
-- Consolidate overlapping platforms
-- Reduce unnecessary licenses
-- Improve security settings
-- Document optimized technology stack
-
----
-
-# Stage 3 — Automation Build
-
-## Project Range
-
-$5,000 – $15,000
-
-Automation examples:
-
-- AI email workflows
-- Client intake automation
-- CRM automation
-- Proposal generation
-- Invoice processing
-- Reporting dashboards
-- Internal AI knowledge assistants
-
-Every automation must connect to:
-
-**Hours saved → Cost reduction → Business value**
-
----
-
-# Stage 4 — Technology Partner
-
-## Recurring Revenue Engine
-
-Starting at:
-
-**$2,000+/month**
-
-Includes:
-
-- Quarterly technology reviews
-- AI roadmap planning
-- Vendor management
-- Automation maintenance
-- Security reviews
-- Executive strategy sessions
-
----
-
-# Standard Operating Procedure
-
-Every client follows the same operating sequence.
-
-
-Discovery
-
-↓
-
-Qualification
-
-↓
-
-Profit Scan
-
-↓
-
-Executive Review
-
-↓
-
-Optimization Project
-
-↓
-
-Automation Build
-
-↓
-
-Technology Partner Retainer
-
-
----
-
-# Client Deliverables
-
-Every engagement includes:
-
-- Executive summary
-- Technology score
-- Software spending analysis
-- Automation roadmap
-- 90-day action plan
-- ROI estimate
-- Payback analysis
-
----
-
-# Key Performance Indicators
-
-Performance is measured weekly.
-
-| Metric | Purpose |
-|---|---|
-| Outreach Volume | Sales activity |
-| Discovery Calls | Pipeline health |
-| Profit Scans Sold | Entry offer demand |
-| Scan → Optimization Rate | Conversion |
-| Optimization → Automation Rate | Expansion |
-| Monthly Recurring Revenue | Stability |
-| Average Client Value | Relationship economics |
-| Gross Margin | Delivery efficiency |
-| Customer Acquisition Cost | Sales efficiency |
-
----
-
-# Financial Policy
-
-Every dollar is allocated immediately.
-
-| Allocation | Purpose |
-|---|---|
-| 30% | Tax Reserve |
-| 20% | Operating Reserve |
-| 20% | Business Reinvestment |
-| 30% | Long-Term Investments |
-
-Allocations are reviewed quarterly.
-
-Capital discipline remains the operating rule.
-
----
-
-# Building the Moat
-
-The consulting service can be copied.
-
-The systems cannot.
-
-The long-term objective:
-
-Build proprietary assets that create enterprise value.
-
----
-
-# Proprietary Assets
-
-## AI Readiness Framework
-
-A standardized scoring system measuring:
-
-- Technology maturity
-- Software waste
-- Automation opportunities
-- Operational efficiency
-
----
-
-## Benchmark Database
-
-Built from every engagement:
-
-- Industry comparisons
-- Software spending benchmarks
-- Automation patterns
-- Efficiency metrics
-
----
-
-## Internal Systems
-
-Assets include:
-
-- Audit templates
-- Automation playbooks
-- AI prompt libraries
-- Knowledge database
-- Client portal
-- Delivery frameworks
-
----
-
-# Biggest Current Risk
-
-The company currently depends on one operator.
-
-The solution:
-
-Build systems that reduce dependency.
-
-Priority:
-
-- Document SOPs
-- Automate reporting
-- Automate data collection
-- Create reusable frameworks
-- Build software-enabled delivery
-
----
-
-# Five-Year Vision
-
-The goal is not to become the busiest consultant.
-
-The goal:
-
-**Become the operating efficiency standard businesses rely on.**
-
----
-
-| Layer | Purpose |
-|---|---|
-| Profit Scan | Marketing entry point |
-| Optimization & Automation | Revenue engine |
-| Technology Partner | Recurring profit center |
-| Proprietary Framework | Enterprise value creation |
-| Software Platform | Long-term scalable asset |
-
----
-
-# Long-Term Strategy
-
-Consulting revenue funds growth.
-
-Proprietary systems create ownership.
-
-The mission:
-
-> Build a one-person AI-powered holding company where technology creates leverage, profits create capital, and systems create lasting enterprise value.
-
----
-
-<div align="center">
-
-## MN Global Investment Holdings, LLC
-
-**AI + Automation + Capital Allocation**
-
-Built for long-term compounding.
-
-</div>
