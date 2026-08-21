@@ -37,7 +37,7 @@ The business operates entirely through an AI-augmented command console managed d
 
 ---
 
-## Revenue Engine
+## Revenue Pipeline
 
 ### Channel A: Open-Source Tool Network
 Twenty free, self-contained tools published on GitHub at zero hosting cost[cite: 1]. Funded entirely through voluntary sponsorships via GitHub Sponsors and Open Collective[cite: 1]. 
